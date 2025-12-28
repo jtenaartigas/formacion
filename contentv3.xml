@@ -87,9 +87,9 @@
   <string role="key" value="_name"></string>
   <unicode value="Formacin_JTA"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="51"></int>
+  <int value="58"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="21"></int>
+  <int value="23"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -195,7 +195,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="335"></int>
+                  <int value="350"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -209,7 +209,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_133_2.2"></unicode>
+                <unicode value="0_133_2.3"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -220,7 +220,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="logo.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\logo.png"></string>
+                  <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\logo.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="dc1404ed98c4804d5bfa4240919ba404"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -249,7 +249,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="3"></int>
+           <int value="4"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -398,7 +398,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="336"></int>
+                     <int value="351"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -412,7 +412,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_134_2.3"></unicode>
+                   <unicode value="1_134_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="9">
                     <dictionary>
@@ -423,7 +423,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Logo_Formacion_Mates.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\Logo_Formacion_Mates.jpg"></string>
+                     <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\Logo_Formacion_Mates.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="2fa6cd6b55a0d3369afc8b0378d9f179"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -452,7 +452,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="4"></int>
+              <int value="5"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -770,7 +770,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="324"></int>
+                        <int value="338"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -784,7 +784,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="139_128_2.24"></unicode>
+                      <unicode value="139_128_2.28"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="15">
                        <dictionary>
@@ -795,7 +795,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="a.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\a.png"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\a.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="6646f4ee03383b01b51be5c5eee0fc01"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -822,7 +822,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="325"></int>
+                        <int value="339"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -836,7 +836,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="139_128_2.25"></unicode>
+                      <unicode value="139_128_2.29"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="16">
                        <dictionary>
@@ -847,7 +847,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="B.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\B.jpg"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\B.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="57d46ccf2d79d777905911cb7395d6f9"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -874,7 +874,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="326"></int>
+                        <int value="341"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -888,7 +888,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="139_128_2.26"></unicode>
+                      <unicode value="139_128_2.30"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="17">
                        <dictionary>
@@ -899,7 +899,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="C.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\C.jpg"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\C.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="a132ba98fd1613597d67838b97c89beb"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -926,7 +926,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="327"></int>
+                        <int value="342"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -940,7 +940,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="139_128_2.27"></unicode>
+                      <unicode value="139_128_2.31"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="18">
                        <dictionary>
@@ -951,7 +951,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="D.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\D.jpg"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\D.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="872ae3b499224fda309ef95c992e2469"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -980,7 +980,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="28"></int>
+                 <int value="32"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="12"></reference>
                 </dictionary>
@@ -1127,7 +1127,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="328"></int>
+                        <int value="343"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1141,7 +1141,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="140_129_2.42"></unicode>
+                      <unicode value="140_129_2.49"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="21">
                        <dictionary>
@@ -1152,7 +1152,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="E.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\E.jpg"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\E.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="6992d965a62f37447a598115f75a6868"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1179,7 +1179,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="329"></int>
+                        <int value="344"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1193,7 +1193,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="140_129_2.43"></unicode>
+                      <unicode value="140_129_2.50"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="22">
                        <dictionary>
@@ -1204,7 +1204,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="F.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\F.png"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\F.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8eca122102bf9bd3f994b76dde7cf704"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1231,7 +1231,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="330"></int>
+                        <int value="345"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1245,7 +1245,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="140_129_2.44"></unicode>
+                      <unicode value="140_129_2.51"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="23">
                        <dictionary>
@@ -1256,7 +1256,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="G.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\G.png"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\G.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="12308fc482296969c2040869a3309390"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1283,7 +1283,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="331"></int>
+                        <int value="346"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1297,7 +1297,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="140_129_2.45"></unicode>
+                      <unicode value="140_129_2.52"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="24">
                        <dictionary>
@@ -1308,7 +1308,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="H.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\H.jpg"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\H.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ae0969d51e8e7c3eea566472bf60c402"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1335,7 +1335,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="332"></int>
+                        <int value="347"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1349,7 +1349,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="140_129_2.46"></unicode>
+                      <unicode value="140_129_2.53"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="25">
                        <dictionary>
@@ -1360,7 +1360,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="I.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\I.png"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\I.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="dc23ab0cf1cb670901961a6d17531d9b"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1387,7 +1387,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="333"></int>
+                        <int value="348"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1401,7 +1401,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="140_129_2.47"></unicode>
+                      <unicode value="140_129_2.54"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="26">
                        <dictionary>
@@ -1412,7 +1412,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="J.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\J.jpg"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\J.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0693f087a6d239ff86d30e49f15647a9"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1439,7 +1439,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="334"></int>
+                        <int value="349"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1453,7 +1453,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="140_129_2.48"></unicode>
+                      <unicode value="140_129_2.55"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="27">
                        <dictionary>
@@ -1464,7 +1464,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="K.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp7npozn\\K.jpg"></string>
+                        <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\K.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="6be41e905a7a86ef6d209d9b1c965bb6"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1493,7 +1493,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="49"></int>
+                 <int value="56"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="12"></reference>
                 </dictionary>
@@ -6887,6 +6887,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/banner_el_pensamiento_computacional.png&quot; alt=&quot;El pensamiento computacional en la actualización de recursos educativos en competencia lingüística y matemática&quot; title=&quot;El pensamiento computacional en la actualización de recursos educativos en competencia lingüística y matemática&quot; width=&quot;1200&quot; height=&quot;654&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -6908,7 +6910,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="337"></int>
+                     <int value="340"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6922,7 +6924,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="40_141_2.0"></unicode>
+                   <unicode value="40_141_2.1"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="110">
                     <dictionary>
@@ -6933,7 +6935,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="banner_el_pensamiento_computacional.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmp56kry6.eXe\\previews\\banner_el_pensamiento_computacional.png"></string>
+                     <string value="c:\\users\\qatod\\appdata\\local\\temp\\tmpuy0j2u\\banner_el_pensamiento_computacional.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="239d2cbfd90b487894d43ad96934e017"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6962,7 +6964,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="1"></int>
+              <int value="2"></int>
               <string role="key" value="parentNode"></string>
               <reference key="109"></reference>
              </dictionary>
@@ -7092,6 +7094,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
@@ -7741,7 +7745,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="113"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -7869,6 +7873,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
@@ -8310,7 +8316,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="116"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -8359,36 +8365,10 @@
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="137">
-          <dictionary>
-           <string role="key" value="_title"></string>
-           <unicode value="1º Comprensión lectora"></unicode>
-           <string role="key" value="idevices"></string>
-           <list></list>
-           <string role="key" value="_id"></string>
-           <unicode value="9"></unicode>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="anchor_fields"></string>
-           <list></list>
-           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exportType"></string>
-           <string value="website"></string>
-           <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Inicio:Formaci%C3%B3n%20en%20Centros%2025-26:1%C2%BA%20Comprensi%C3%B3n%20lectora"></string>
-           <string role="key" value="parent"></string>
-           <reference key="109"></reference>
-           <string role="key" value="top_anchors_linked_from_fields"></string>
-           <list></list>
-           <string role="key" value="children"></string>
-           <list></list>
-          </dictionary>
-         </instance>
          <instance class="exe.engine.node.Node" reference="119">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="2º Razonamiento matemático"></unicode>
+           <unicode value="1º El Huerto Mágico"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="117">
@@ -8455,7 +8435,7 @@
                <instance class="exe.engine.field.TextAreaField" reference="118">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <unicode value="147_2"></unicode>
+                 <unicode value="155_2"></unicode>
                  <string role="key" value="_idevice"></string>
                  <reference key="117"></reference>
                  <string role="key" value="_instruc"></string>
@@ -8464,6 +8444,666 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+    /* IMPORTACIÓN DE FUENTES */
+    @font-face {
+        font-family: 'Escolar';
+        src: url('Escolar_G.TTF') format('truetype');
+        font-weight: normal;
+    }
+    @font-face {
+        font-family: 'Escolar';
+        src: url('Escolar_N.TTF') format('truetype');
+        font-weight: bold;
+    }
+
+    :root {
+        /* Colores más vivos y primarios para 1º de Primaria */
+        --primary: #FF9F43; /* Naranja pastel */
+        --secondary: #54a0ff; /* Azul cielo */
+        --accent: #ee5253; /* Rojo suave */
+        --correct: #10ac84; /* Verde bosque */
+        --wrong: #ff6b6b; /* Rojo claro */
+        --bg: #c8d6e5; /* Fondo claro */
+        --text: #222f3e;
+    }
+
+    * { box-sizing: border-box; user-select: none; }
+
+    body {
+        font-family: 'Escolar', 'Comic Sans MS', sans-serif;
+        background-color: var(--bg);
+        /* Fondo divertido con topos */
+        background-image: 
+            radial-gradient(#54a0ff 20%, transparent 20%),
+            radial-gradient(#ff9f43 20%, transparent 20%);
+        background-size: 50px 50px;
+        background-position: 0 0, 25px 25px;
+        margin: 0;
+        padding: 20px;
+        color: var(--text);
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+    }
+
+    .game-container {
+        width: 100%;
+        max-width: 900px;
+        min-height: 85vh;
+        background: rgba(255, 255, 255, 0.9);
+        border-radius: 30px;
+        border: 5px solid #fff;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+        margin-bottom: 50px;
+    }
+
+    /* PANTALLAS */
+    .screen {
+        width: 100%; 
+        min-height: 600px;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .screen.active {
+        display: flex;
+    }
+
+    /* INICIO */
+    h1 {
+        font-size: 4rem; /* Letra muy grande */
+        color: var(--accent);
+        text-shadow: 3px 3px 0 #fff;
+        margin-bottom: 20px;
+        line-height: 1.1;
+    }
+
+    .intro-text {
+        font-size: 2rem;
+        margin-bottom: 40px;
+        color: #222f3e;
+    }
+
+    .btn-start {
+        background: var(--correct);
+        color: white;
+        border: none;
+        padding: 25px 50px;
+        font-size: 2.5rem;
+        border-radius: 60px;
+        font-family: 'Escolar', sans-serif;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 0 10px 0 #0d8263;
+        transition: transform 0.1s;
+        animation: bounce 2s infinite;
+    }
+
+    .btn-start:active {
+        transform: translateY(6px);
+        box-shadow: 0 4px 0 #0d8263;
+    }
+
+    @keyframes bounce {
+        0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+        40% {transform: translateY(-10px);}
+        60% {transform: translateY(-5px);}
+    }
+
+    /* JUEGO */
+    .top-bar {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 15px 30px;
+        font-size: 2rem;
+        background: #fff;
+        border-radius: 25px 25px 0 0;
+        border-bottom: 3px solid #eee;
+    }
+
+    .score-box { color: var(--accent); font-weight: bold; }
+
+    /* Barra de tiempo más amigable */
+    .timer-bar-bg {
+        width: 100%;
+        height: 25px;
+        background: #dfe6e9;
+    }
+
+    .timer-bar-fill {
+        height: 100%;
+        background: #00cec9; /* Color turquesa tranquilo */
+        width: 100%;
+        transition: width 1s linear;
+        border-radius: 0 10px 10px 0;
+    }
+
+    .question-box {
+        background: #fff;
+        border: 4px dashed var(--secondary);
+        color: #2d3436;
+        padding: 30px;
+        border-radius: 20px;
+        margin: 30px 20px;
+        text-align: center;
+        font-size: 2.5rem; /* Letra muy grande para lectura fácil */
+        width: 90%;
+        line-height: 1.3;
+    }
+
+    .grid-options {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 25px;
+        width: 95%;
+        margin-bottom: 30px;
+    }
+
+    @media (max-width: 700px) {
+        .grid-options { grid-template-columns: 1fr; }
+        h1 { font-size: 3rem; }
+        .question-box { font-size: 2rem; }
+    }
+
+    .option-btn {
+        padding: 25px;
+        font-size: 2rem;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+        font-family: 'Escolar', sans-serif;
+        font-weight: bold;
+        color: white;
+        transition: transform 0.1s;
+        display: flex;
+        align-items: center;
+        justify-content: center; /* Centrado para lectura fácil */
+        text-align: center;
+        box-shadow: 0 8px 0 rgba(0,0,0,0.15);
+        min-height: 100px;
+    }
+
+    .option-btn:active { transform: translateY(4px); box-shadow: none; }
+
+    /* Colores vibrantes y diferenciados */
+    .opt-0 { background-color: #ff6b6b; } /* Rojo */
+    .opt-1 { background-color: #54a0ff; } /* Azul */
+    .opt-2 { background-color: #feca57; color: #222 !important; } /* Amarillo */
+    .opt-3 { background-color: #1dd1a1; } /* Verde */
+
+    .option-icon {
+        font-size: 2.5rem;
+        margin-right: 15px;
+    }
+
+    /* FEEDBACK FLOTANTE */
+    .feedback-overlay {
+        position: fixed;
+        top: 0; left: 0; width: 100%; height: 100%;
+        background: rgba(255, 255, 255, 0.95);
+        z-index: 100;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .feedback-emoji { font-size: 8rem; margin-bottom: 10px; animation: pop 0.5s; }
+    .feedback-title { font-size: 4rem; margin-bottom: 20px; font-weight: bold; }
+    .feedback-msg { font-size: 2.2rem; color: #555; }
+
+    @keyframes pop {
+        0% { transform: scale(0); }
+        80% { transform: scale(1.2); }
+        100% { transform: scale(1); }
+    }
+
+    /* FINAL */
+    .final-stats {
+        background: #fff;
+        border: 5px solid var(--secondary);
+        padding: 40px;
+        border-radius: 30px;
+        text-align: center;
+        margin-bottom: 30px;
+        width: 90%;
+    }
+
+&lt;/style&gt;
+&lt;div class=&quot;game-container&quot;&gt;&lt;!-- PANTALLA 1: INICIO --&gt;
+&lt;div id=&quot;screen-start&quot; class=&quot;screen active&quot;&gt;
+&lt;h1&gt;🌻 EL HUERTO MÁGICO 🥕&lt;/h1&gt;
+&lt;p class=&quot;intro-text&quot;&gt;¡Hola! Vamos a cuidar el huerto.&lt;br /&gt;Necesito tu ayuda para contar y ordenar.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;5 Preguntas fáciles&lt;/strong&gt;&lt;br /&gt;⏳ ¡Mucho tiempo para pensar!&lt;/p&gt;
+&lt;button class=&quot;btn-start&quot; onclick=&quot;startGame()&quot;&gt;¡JUGAR!&lt;/button&gt;&lt;/div&gt;
+&lt;!-- PANTALLA 2: JUEGO --&gt;
+&lt;div id=&quot;screen-game&quot; class=&quot;screen&quot;&gt;
+&lt;div class=&quot;top-bar&quot;&gt;
+&lt;div&gt;Pregunta &lt;span id=&quot;q-num&quot;&gt;1&lt;/span&gt; de 5&lt;/div&gt;
+&lt;div class=&quot;score-box&quot;&gt;⭐ &lt;span id=&quot;score-val&quot;&gt;0&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;timer-bar-bg&quot;&gt;
+&lt;div id=&quot;timer-bar&quot; class=&quot;timer-bar-fill&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question-box&quot; id=&quot;question-text&quot;&gt;&lt;!-- Texto pregunta --&gt;&lt;/div&gt;
+&lt;div class=&quot;grid-options&quot; id=&quot;options-area&quot;&gt;&lt;!-- Botones se generan aquí --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- PANTALLA 3: FINAL --&gt;
+&lt;div id=&quot;screen-end&quot; class=&quot;screen&quot;&gt;
+&lt;h1&gt;🏆 ¡CAMPEÓN/A! 🏆&lt;/h1&gt;
+&lt;div class=&quot;final-stats&quot;&gt;
+&lt;p style=&quot;font-size: 2rem;&quot;&gt;Has conseguido:&lt;/p&gt;
+&lt;div style=&quot;font-size: 6rem; color: var(--accent); font-weight: bold; margin: 10px 0;&quot; id=&quot;final-score&quot;&gt;0&lt;/div&gt;
+&lt;p style=&quot;font-size: 2.5rem;&quot;&gt;¡Estrellas Mágicas!&lt;/p&gt;
+&lt;/div&gt;
+&lt;button class=&quot;btn-start&quot; onclick=&quot;location.reload()&quot;&gt;Volver a Jugar&lt;/button&gt;&lt;/div&gt;
+&lt;!-- FEEDBACK OVERLAY --&gt;
+&lt;div id=&quot;feedback-overlay&quot; class=&quot;feedback-overlay&quot;&gt;
+&lt;div class=&quot;feedback-emoji&quot; id=&quot;fb-emoji&quot;&gt;🎉&lt;/div&gt;
+&lt;div class=&quot;feedback-title&quot; id=&quot;fb-title&quot;&gt;¡BIEN!&lt;/div&gt;
+&lt;div class=&quot;feedback-msg&quot; id=&quot;fb-msg&quot;&gt;Mensaje...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+    // --- DATOS DEL JUEGO (ADAPTADO A 1º PRIMARIA: 6 AÑOS) ---
+    // Enfoque: Visual, Lectura fácil, Conceptos básicos de CT y Mate
+    
+    const questions = [
+        {
+            q: &quot;🍅 Patrones: Mira esta serie de verduras...\n\n 🍅 🥬 🍅 🥬 🍅 ...\n\n¿Qué toca ahora?&quot;,
+            opts: [
+                &quot;🥬 Una lechuga&quot;,
+                &quot;🍅 Un tomate&quot;,
+                &quot;🥕 Una zanahoria&quot;,
+                &quot;🥔 Una patata&quot;
+            ],
+            correct: 0,
+            feedback: &quot;¡Muy bien! La serie es: Tomate, Lechuga, Tomate, Lechuga...&quot;
+        },
+        {
+            q: &quot;➕ Sumas: En una hoja hay 3 mariquitas 🐞🐞🐞 y llegan 2 más 🐞🐞.\n\n¿Cuántas hay en total?&quot;,
+            opts: [
+                &quot;Hay 4&quot;,
+                &quot;Hay 6&quot;,
+                &quot;Hay 5&quot;,
+                &quot;Hay 3&quot;
+            ],
+            correct: 2,
+            feedback: &quot;¡Genial! 3 mariquitas más 2 mariquitas son 5.&quot;
+        },
+        {
+            q: &quot;🤖 Algoritmos: El robot quiere regar la flor 🌻.\n\nEstá lejos. ¿Qué tiene que hacer?&quot;,
+            opts: [
+                &quot;Dormir un poco 😴&quot;,
+                &quot;Caminar hacia la flor 🚶&quot;,
+                &quot;Saltar muy alto 🦘&quot;,
+                &quot;Comerse la flor 😋&quot;
+            ],
+            correct: 1,
+            feedback: &quot;¡Eso es! Un algoritmo son pasos para conseguir algo. Primero debe caminar.&quot;
+        },
+        {
+            q: &quot;🔎 Debugging (Buscar el error): Contamos las macetas...\n\n1, 2, 3, 5, 6.\n\n¿Qué número falta?&quot;,
+            opts: [
+                &quot;Falta el 10&quot;,
+                &quot;Falta el 4&quot;,
+                &quot;No falta ninguno&quot;,
+                &quot;Falta el 8&quot;
+            ],
+            correct: 1,
+            feedback: &quot;¡Bien visto! Te has saltado el número 4.&quot;
+        },
+        {
+            q: &quot;📐 Formas: ¿Cuál de estas cosas del huerto es REDONDA como un CÍRCULO?&quot;,
+            opts: [
+                &quot;El rastrillo&quot;,
+                &quot;La naranja 🍊&quot;,
+                &quot;La caja cuadrada 📦&quot;,
+                &quot;La zanahoria 🥕&quot;
+            ],
+            correct: 1,
+            feedback: &quot;¡Exacto! La naranja tiene forma de esfera o círculo.&quot;
+        }
+    ];
+
+    // --- VARIABLES DE ESTADO ---
+    let currentQIndex = 0;
+    let score = 0;
+    let timeLeft = 0;
+    let timerInterval;
+    const TIME_PER_QUESTION = 300; // 5 MINUTOS (300 segundos) - Muy relajado
+    const POINTS_PER_QUESTION = 100; 
+
+    // --- ELEMENTOS DOM ---
+    const screens = {
+        start: document.getElementById('screen-start'),
+        game: document.getElementById('screen-game'),
+        end: document.getElementById('screen-end')
+    };
+    
+    const ui = {
+        qNum: document.getElementById('q-num'),
+        score: document.getElementById('score-val'),
+        timerBar: document.getElementById('timer-bar'),
+        qText: document.getElementById('question-text'),
+        optsArea: document.getElementById('options-area'),
+        fbOverlay: document.getElementById('feedback-overlay'),
+        fbTitle: document.getElementById('fb-title'),
+        fbEmoji: document.getElementById('fb-emoji'),
+        fbMsg: document.getElementById('fb-msg'),
+        finalScore: document.getElementById('final-score')
+    };
+
+    // --- FUNCIONES ---
+
+    function showScreen(name) {
+        Object.values(screens).forEach(s =&gt; {
+            s.classList.remove('active');
+            s.style.display = 'none';
+        });
+        const current = screens[name];
+        current.style.display = 'flex';
+        setTimeout(() =&gt; current.classList.add('active'), 10);
+    }
+
+    function startGame() {
+        score = 0;
+        currentQIndex = 0;
+        showScreen('game');
+        updateStats();
+        loadQuestion();
+    }
+
+    function loadQuestion() {
+        if (currentQIndex &gt;= questions.length) {
+            endGame();
+            return;
+        }
+
+        const q = questions[currentQIndex];
+        
+        ui.qNum.innerText = currentQIndex + 1;
+        ui.qText.innerText = q.q;
+        ui.optsArea.innerHTML = '';
+        
+        // Reset Timer
+        timeLeft = TIME_PER_QUESTION;
+        ui.timerBar.style.width = '100%';
+        ui.timerBar.style.backgroundColor = '#00cec9'; 
+        
+        q.opts.forEach((optText, index) =&gt; {
+            const btn = document.createElement('button');
+            btn.className = `option-btn opt-${index}`;
+            // Iconos simples para 1º
+            const icons = ['🔷', '🔶', '🔴', '💚']; 
+            btn.innerHTML = `&lt;span class=&quot;option-icon&quot;&gt;${icons[index]}&lt;/span&gt; ${optText}`;
+            btn.onclick = () =&gt; checkAnswer(index);
+            ui.optsArea.appendChild(btn);
+        });
+
+        startTimer();
+    }
+
+    function startTimer() {
+        clearInterval(timerInterval);
+        timerInterval = setInterval(() =&gt; {
+            timeLeft -= 1; // Bajamos de 1 en 1 segundo (más suave)
+            const percentage = (timeLeft / TIME_PER_QUESTION) * 100;
+            ui.timerBar.style.width = `${percentage}%`;
+
+            if (percentage &lt; 20) ui.timerBar.style.backgroundColor = '#ff7675';
+
+            if (timeLeft &lt;= 0) {
+                clearInterval(timerInterval);
+                showFeedback(false, &quot;¡Oh! Se acabó el tiempo ⏳&quot;);
+            }
+        }, 1000);
+    }
+
+    function checkAnswer(selectedIndex) {
+        clearInterval(timerInterval);
+        const q = questions[currentQIndex];
+        const isCorrect = selectedIndex === q.correct;
+
+        if (isCorrect) {
+            score += POINTS_PER_QUESTION;
+            // Bonus pequeño por tiempo (para motivar, pero no penalizar mucho)
+            if(timeLeft &gt; 100) score += 50; 
+            
+            showFeedback(true, q.feedback);
+        } else {
+            showFeedback(false, q.feedback);
+        }
+    }
+
+    function showFeedback(isCorrect, msg) {
+        ui.fbOverlay.style.display = 'flex';
+        
+        if (isCorrect) {
+            ui.fbTitle.innerText = &quot;¡MUY BIEN!&quot;;
+            ui.fbTitle.style.color = &quot;var(--correct)&quot;;
+            ui.fbEmoji.innerText = &quot;🎉&quot;;
+        } else {
+            ui.fbTitle.innerText = &quot;¡OH, VAYA!&quot;;
+            ui.fbTitle.style.color = &quot;var(--wrong)&quot;;
+            ui.fbEmoji.innerText = &quot;🤔&quot;;
+        }
+        
+        ui.fbMsg.innerText = msg;
+        updateStats();
+
+        setTimeout(() =&gt; {
+            ui.fbOverlay.style.display = 'none';
+            currentQIndex++;
+            loadQuestion();
+        }, 4000); // 4 segundos para leer tranquilos
+    }
+
+    function updateStats() {
+        ui.score.innerText = score;
+    }
+
+    function endGame() {
+        showScreen('end');
+        ui.finalScore.innerText = score;
+    }
+
+&lt;/script&gt;
+&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="118"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="119"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="54"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="119"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="22"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="2"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Inicio:Formaci%C3%B3n%20en%20Centros%2025-26:1%C2%BA%20El%20Huerto%20M%C3%A1gico"></string>
+           <string role="key" value="parent"></string>
+           <reference key="109"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="147">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="1º Comprensión lectora"></unicode>
+           <string role="key" value="idevices"></string>
+           <list></list>
+           <string role="key" value="_id"></string>
+           <unicode value="9"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="2"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Inicio:Formaci%C3%B3n%20en%20Centros%2025-26:1%C2%BA%20Comprensi%C3%B3n%20lectora"></string>
+           <string role="key" value="parent"></string>
+           <reference key="109"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="122">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="2º Razonamiento matemático"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="120">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="121">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="147_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="120"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
@@ -9008,7 +9648,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="118"></reference>
+                   <reference key="121"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -9016,7 +9656,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="122"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -9033,7 +9673,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="119"></reference>
+              <reference key="122"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -9065,35 +9705,13 @@
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="132">
+         <instance class="exe.engine.node.Node" reference="125">
           <dictionary>
            <string role="key" value="_title"></string>
-           <string value=""></string>
-           <string role="key" value="idevices"></string>
-           <list></list>
-           <string role="key" value="_id"></string>
-           <unicode value="12"></unicode>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exportType"></string>
-           <string value="website"></string>
-           <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Inicio:Formaci%C3%B3n%20en%20Centros%2025-26:Secci%C3%B3n"></string>
-           <string role="key" value="parent"></string>
-           <reference key="109"></reference>
-           <string role="key" value="children"></string>
-           <list></list>
-          </dictionary>
-         </instance>
-         <instance class="exe.engine.node.Node" reference="122">
-          <dictionary>
-           <string role="key" value="_title"></string>
-           <unicode value="3º Razonamiento matemático"></unicode>
+           <unicode value="2º Viaje a Marte"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="120">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="123">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -9154,18 +9772,653 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="121">
+               <instance class="exe.engine.field.TextAreaField" reference="124">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <unicode value="148_2"></unicode>
+                 <unicode value="157_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="120"></reference>
+                 <reference key="123"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+    /* IMPORTACIÓN DE FUENTES - Estilo Escolar */
+    @font-face {
+        font-family: 'Escolar';
+        src: url('Escolar_G.TTF') format('truetype');
+        font-weight: normal;
+    }
+    @font-face {
+        font-family: 'Escolar';
+        src: url('Escolar_N.TTF') format('truetype');
+        font-weight: bold;
+    }
+
+    :root {
+        /* Paleta Espacial: Oscura con neones */
+        --bg-space: #0c0c1e; /* Azul casi negro */
+        --primary: #a29bfe; /* Lila suave */
+        --accent: #fdcb6e; /* Amarillo Sol */
+        --correct: #00b894; /* Verde Neón */
+        --wrong: #d63031; /* Rojo Intenso */
+        --text: #ffffff;
+        --card-bg: rgba(255, 255, 255, 0.1);
+    }
+
+    * { box-sizing: border-box; user-select: none; }
+
+    body {
+        font-family: 'Escolar', 'Comic Sans MS', sans-serif;
+        background-color: var(--bg-space);
+        /* Fondo de estrellas */
+        background-image: 
+            radial-gradient(white 1px, transparent 1px),
+            radial-gradient(white 1px, transparent 1px);
+        background-size: 50px 50px;
+        background-position: 0 0, 25px 25px;
+        margin: 0;
+        padding: 20px;
+        color: var(--text);
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+    }
+
+    .game-container {
+        width: 100%;
+        max-width: 900px;
+        min-height: 85vh;
+        background: linear-gradient(180deg, #1e1e2e 0%, #0c0c1e 100%);
+        border-radius: 30px;
+        border: 4px solid #4834d4;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        box-shadow: 0 0 40px rgba(72, 52, 212, 0.5);
+        margin-bottom: 50px;
+        overflow: hidden; /* Para contener las estrellas */
+    }
+
+    /* PANTALLAS */
+    .screen {
+        width: 100%; 
+        min-height: 600px;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        text-align: center;
+        z-index: 2;
+    }
+
+    .screen.active {
+        display: flex;
+    }
+
+    /* INICIO */
+    h1 {
+        font-size: 4rem;
+        color: var(--accent);
+        text-shadow: 0 0 15px var(--accent);
+        margin-bottom: 20px;
+        line-height: 1.1;
+    }
+
+    .intro-text {
+        font-size: 2rem;
+        margin-bottom: 40px;
+        color: #dfe6e9;
+        line-height: 1.5;
+    }
+
+    .btn-start {
+        background: linear-gradient(to bottom, #6c5ce7, #4834d4);
+        color: white;
+        border: 2px solid #a29bfe;
+        padding: 25px 60px;
+        font-size: 2.5rem;
+        border-radius: 50px;
+        font-family: 'Escolar', sans-serif;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 0 10px 0 #2c2c54;
+        transition: transform 0.1s;
+        animation: pulse 2s infinite;
+    }
+
+    .btn-start:active {
+        transform: translateY(6px);
+        box-shadow: 0 4px 0 #2c2c54;
+    }
+
+    @keyframes pulse {
+        0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(108, 92, 231, 0.7); }
+        70% { transform: scale(1.05); box-shadow: 0 0 0 20px rgba(108, 92, 231, 0); }
+        100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(108, 92, 231, 0); }
+    }
+
+    /* JUEGO */
+    .top-bar {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 15px 30px;
+        font-size: 2rem;
+        background: rgba(0,0,0,0.3);
+        border-bottom: 2px solid #4834d4;
+    }
+
+    .score-box { color: var(--accent); font-weight: bold; }
+
+    /* Barra de tiempo */
+    .timer-bar-bg {
+        width: 100%;
+        height: 20px;
+        background: rgba(255,255,255,0.1);
+    }
+
+    .timer-bar-fill {
+        height: 100%;
+        background: linear-gradient(90deg, #00b894, #00cec9);
+        width: 100%;
+        transition: width 1s linear;
+        border-radius: 0 10px 10px 0;
+    }
+
+    .question-box {
+        background: rgba(255, 255, 255, 0.1);
+        border: 2px solid rgba(255,255,255,0.2);
+        backdrop-filter: blur(5px);
+        color: white;
+        padding: 30px;
+        border-radius: 20px;
+        margin: 30px 20px;
+        text-align: center;
+        font-size: 2.2rem;
+        width: 90%;
+        line-height: 1.4;
+    }
+
+    .grid-options {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 25px;
+        width: 95%;
+        margin-bottom: 30px;
+    }
+
+    @media (max-width: 700px) {
+        .grid-options { grid-template-columns: 1fr; }
+        h1 { font-size: 3rem; }
+        .question-box { font-size: 1.8rem; }
+    }
+
+    .option-btn {
+        padding: 25px;
+        font-size: 1.8rem;
+        border: none;
+        border-radius: 15px;
+        cursor: pointer;
+        font-family: 'Escolar', sans-serif;
+        font-weight: bold;
+        color: white;
+        transition: transform 0.1s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        box-shadow: 0 8px 0 rgba(0,0,0,0.3);
+        min-height: 100px;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+    }
+
+    .option-btn:active { transform: translateY(4px); box-shadow: none; }
+
+    /* Colores botones (estilo consola) */
+    .opt-0 { background-color: #ff7675; } /* Rojo */
+    .opt-1 { background-color: #74b9ff; } /* Azul */
+    .opt-2 { background-color: #fdcb6e; color: #2d3436 !important; text-shadow:none;} /* Amarillo */
+    .opt-3 { background-color: #55efc4; color: #2d3436 !important; text-shadow:none;} /* Verde */
+
+    .option-icon {
+        font-size: 2.5rem;
+        margin-right: 15px;
+    }
+
+    /* FEEDBACK FLOTANTE NEUTRO */
+    .feedback-overlay {
+        position: fixed;
+        top: 0; left: 0; width: 100%; height: 100%;
+        background: rgba(12, 12, 30, 0.95); /* Fondo oscuro espacial */
+        z-index: 100;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+        color: white;
+    }
+
+    .feedback-emoji { font-size: 6rem; margin-bottom: 20px; }
+    .feedback-title { font-size: 3.5rem; margin-bottom: 20px; font-weight: bold; color: var(--accent); }
+    .feedback-msg { font-size: 2.2rem; line-height: 1.5; max-width: 800px; }
+
+    /* FINAL */
+    .final-stats {
+        background: rgba(255,255,255,0.1);
+        border: 2px solid var(--accent);
+        padding: 40px;
+        border-radius: 30px;
+        text-align: center;
+        margin-bottom: 30px;
+        width: 90%;
+    }
+
+&lt;/style&gt;
+&lt;div class=&quot;game-container&quot;&gt;&lt;!-- PANTALLA 1: INICIO --&gt;
+&lt;div id=&quot;screen-start&quot; class=&quot;screen active&quot;&gt;
+&lt;h1&gt;🚀 VIAJE A MARTE 🪐&lt;/h1&gt;
+&lt;p class=&quot;intro-text&quot;&gt;Comandante, necesitamos tu ayuda.&lt;br /&gt;Calcula la ruta y el combustible.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;5 Misiones&lt;/strong&gt;&lt;br /&gt;⏳ 4 minutos para cada una.&lt;/p&gt;
+&lt;button class=&quot;btn-start&quot; onclick=&quot;startGame()&quot;&gt;¡DESPEGAR!&lt;/button&gt;&lt;/div&gt;
+&lt;!-- PANTALLA 2: JUEGO --&gt;
+&lt;div id=&quot;screen-game&quot; class=&quot;screen&quot;&gt;
+&lt;div class=&quot;top-bar&quot;&gt;
+&lt;div&gt;Misión &lt;span id=&quot;q-num&quot;&gt;1&lt;/span&gt; de 5&lt;/div&gt;
+&lt;div class=&quot;score-box&quot;&gt;⭐ &lt;span id=&quot;score-val&quot;&gt;0&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;timer-bar-bg&quot;&gt;
+&lt;div id=&quot;timer-bar&quot; class=&quot;timer-bar-fill&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question-box&quot; id=&quot;question-text&quot;&gt;&lt;!-- Texto pregunta --&gt;&lt;/div&gt;
+&lt;div class=&quot;grid-options&quot; id=&quot;options-area&quot;&gt;&lt;!-- Botones se generan aquí --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- PANTALLA 3: FINAL --&gt;
+&lt;div id=&quot;screen-end&quot; class=&quot;screen&quot;&gt;
+&lt;h1&gt;🏆 ¡MISIÓN CUMPLIDA! 🏆&lt;/h1&gt;
+&lt;div class=&quot;final-stats&quot;&gt;
+&lt;p style=&quot;font-size: 2rem;&quot;&gt;Puntos de Experiencia:&lt;/p&gt;
+&lt;div style=&quot;font-size: 6rem; color: var(--accent); font-weight: bold; margin: 10px 0;&quot; id=&quot;final-score&quot;&gt;0&lt;/div&gt;
+&lt;p style=&quot;font-size: 2.5rem;&quot;&gt;¡Eres un Astronauta Pro!&lt;/p&gt;
+&lt;/div&gt;
+&lt;button class=&quot;btn-start&quot; onclick=&quot;location.reload()&quot;&gt;Nueva Misión&lt;/button&gt;&lt;/div&gt;
+&lt;!-- FEEDBACK OVERLAY --&gt;
+&lt;div id=&quot;feedback-overlay&quot; class=&quot;feedback-overlay&quot;&gt;
+&lt;div class=&quot;feedback-emoji&quot; id=&quot;fb-emoji&quot;&gt;🤖&lt;/div&gt;
+&lt;div class=&quot;feedback-title&quot; id=&quot;fb-title&quot;&gt;ANÁLISIS&lt;/div&gt;
+&lt;div class=&quot;feedback-msg&quot; id=&quot;fb-msg&quot;&gt;Mensaje...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+    // --- DATOS DEL JUEGO (2º PRIMARIA: Misión Espacial) ---
+    // Nivel 2º: Sumas con llevada, Restas, Series de 5/10, Geometría básica, Dinero, Reloj.
+    
+    const questions = [
+        {
+            q: &quot;📦 Carga de la Nave: Llevamos 48 cajas de comida y 25 cajas de agua.\n\n¿Cuántas cajas llevamos en total? (Haz la suma)&quot;,
+            opts: [
+                &quot;63 cajas&quot;,
+                &quot;73 cajas&quot;,
+                &quot;70 cajas&quot;,
+                &quot;68 cajas&quot;
+            ],
+            correct: 1, 
+            // Feedback explicativo (Neutro)
+            feedback: &quot;Si sumamos 48 + 25: \n 8 + 5 = 13 (escribo 3 y me llevo 1). \n 4 + 2 + 1 = 7. \n El total es 73.&quot;
+        },
+        {
+            q: &quot;🌌 Coordenadas (Series): Las balizas espaciales están colocadas de 10 en 10.\n\n10, 20, 30, ...\n\n¿Qué número tiene la siguiente baliza?&quot;,
+            opts: [
+                &quot;35&quot;,
+                &quot;50&quot;,
+                &quot;40&quot;,
+                &quot;45&quot;
+            ],
+            correct: 2,
+            feedback: &quot;La serie va sumando diez cada vez (decenas completas): 10, 20, 30... y luego va el 40.&quot;
+        },
+        {
+            q: &quot;🏪 Tienda Espacial: Un traje de astronauta cuesta 50€ y un casco cuesta 35€.\n\n¿Cuánto cuestan las dos cosas juntas?&quot;,
+            opts: [
+                &quot;85 €&quot;,
+                &quot;80 €&quot;,
+                &quot;95 €&quot;,
+                &quot;75 €&quot;
+            ],
+            correct: 0,
+            feedback: &quot;Sumamos los precios: 50 + 35. \n 0 + 5 = 5. \n 5 + 3 = 8. \n El precio total es 85€.&quot;
+        },
+        {
+            q: &quot;🪟 Ventana de la Nave: La ventana del piloto tiene 4 lados iguales y 4 esquinas.\n\n¿Qué forma tiene?&quot;,
+            opts: [
+                &quot;Triángulo&quot;,
+                &quot;Rectángulo&quot;,
+                &quot;Círculo&quot;,
+                &quot;Cuadrado&quot;
+            ],
+            correct: 3,
+            feedback: &quot;La figura geométrica con 4 lados iguales y 4 vértices es el CUADRADO.&quot;
+        },
+        {
+            q: &quot;⏱️ Cuenta atrás: El cohete despega a las 9:00. El viaje dura media hora (30 minutos).\n\n¿A qué hora llegaremos a la estación?&quot;,
+            opts: [
+                &quot;A las 10:00&quot;,
+                &quot;A las 9:30&quot;,
+                &quot;A las 9:15&quot;,
+                &quot;A las 8:30&quot;
+            ],
+            correct: 1,
+            feedback: &quot;Si salimos a las 9 en punto y sumamos 30 minutos, llegamos a las 9 y media (9:30).&quot;
+        }
+    ];
+
+    // --- VARIABLES DE ESTADO ---
+    let currentQIndex = 0;
+    let score = 0;
+    let timeLeft = 0;
+    let timerInterval;
+    const TIME_PER_QUESTION = 240; // 4 MINUTOS (240 seg)
+    const POINTS_PER_QUESTION = 100; 
+
+    // --- ELEMENTOS DOM ---
+    const screens = {
+        start: document.getElementById('screen-start'),
+        game: document.getElementById('screen-game'),
+        end: document.getElementById('screen-end')
+    };
+    
+    const ui = {
+        qNum: document.getElementById('q-num'),
+        score: document.getElementById('score-val'),
+        timerBar: document.getElementById('timer-bar'),
+        qText: document.getElementById('question-text'),
+        optsArea: document.getElementById('options-area'),
+        fbOverlay: document.getElementById('feedback-overlay'),
+        fbTitle: document.getElementById('fb-title'),
+        fbEmoji: document.getElementById('fb-emoji'),
+        fbMsg: document.getElementById('fb-msg'),
+        finalScore: document.getElementById('final-score')
+    };
+
+    // --- FUNCIONES ---
+
+    function showScreen(name) {
+        Object.values(screens).forEach(s =&gt; {
+            s.classList.remove('active');
+            s.style.display = 'none';
+        });
+        const current = screens[name];
+        current.style.display = 'flex';
+        setTimeout(() =&gt; current.classList.add('active'), 10);
+    }
+
+    function startGame() {
+        score = 0;
+        currentQIndex = 0;
+        showScreen('game');
+        updateStats();
+        loadQuestion();
+    }
+
+    function loadQuestion() {
+        if (currentQIndex &gt;= questions.length) {
+            endGame();
+            return;
+        }
+
+        const q = questions[currentQIndex];
+        
+        ui.qNum.innerText = currentQIndex + 1;
+        ui.qText.innerText = q.q;
+        ui.optsArea.innerHTML = '';
+        
+        // Reset Timer
+        timeLeft = TIME_PER_QUESTION;
+        ui.timerBar.style.width = '100%';
+        ui.timerBar.style.backgroundColor = '#00cec9'; 
+        
+        q.opts.forEach((optText, index) =&gt; {
+            const btn = document.createElement('button');
+            btn.className = `option-btn opt-${index}`;
+            // Iconos temáticos
+            const icons = ['🛸', '⭐', '🤖', '🌑']; 
+            btn.innerHTML = `&lt;span class=&quot;option-icon&quot;&gt;${icons[index]}&lt;/span&gt; ${optText}`;
+            btn.onclick = () =&gt; checkAnswer(index);
+            ui.optsArea.appendChild(btn);
+        });
+
+        startTimer();
+    }
+
+    function startTimer() {
+        clearInterval(timerInterval);
+        timerInterval = setInterval(() =&gt; {
+            timeLeft -= 1; 
+            const percentage = (timeLeft / TIME_PER_QUESTION) * 100;
+            ui.timerBar.style.width = `${percentage}%`;
+
+            if (percentage &lt; 20) ui.timerBar.style.backgroundColor = '#d63031'; // Rojo alerta
+
+            if (timeLeft &lt;= 0) {
+                clearInterval(timerInterval);
+                showFeedback(false, &quot;¡Tiempo agotado! ⏳ Vamos a ver la solución.&quot;);
+            }
+        }, 1000);
+    }
+
+    function checkAnswer(selectedIndex) {
+        clearInterval(timerInterval);
+        const q = questions[currentQIndex];
+        const isCorrect = selectedIndex === q.correct;
+
+        if (isCorrect) {
+            score += POINTS_PER_QUESTION;
+            if(timeLeft &gt; 120) score += 50; // Bonus si sobra mucho tiempo
+            
+            showFeedback(true, q.feedback);
+        } else {
+            showFeedback(false, q.feedback);
+        }
+    }
+
+    function showFeedback(isCorrect, msg) {
+        ui.fbOverlay.style.display = 'flex';
+        
+        // Título NEUTRO para que valga para aciertos y fallos sin confundir
+        if (isCorrect) {
+            ui.fbTitle.innerText = &quot;¡CORRECTO!&quot;;
+            ui.fbTitle.style.color = &quot;var(--correct)&quot;;
+            ui.fbEmoji.innerText = &quot;🎉&quot;;
+        } else {
+            ui.fbTitle.innerText = &quot;REVISEMOS&quot;; // Título neutro
+            ui.fbTitle.style.color = &quot;var(--accent)&quot;;
+            ui.fbEmoji.innerText = &quot;🧐&quot;;
+        }
+        
+        ui.fbMsg.innerText = msg;
+        updateStats();
+
+        // 6 segundos para leer la explicación con calma
+        setTimeout(() =&gt; {
+            ui.fbOverlay.style.display = 'none';
+            currentQIndex++;
+            loadQuestion();
+        }, 6000); 
+    }
+
+    function updateStats() {
+        ui.score.innerText = score;
+    }
+
+    function endGame() {
+        showScreen('end');
+        ui.finalScore.innerText = score;
+    }
+
+&lt;/script&gt;
+&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="124"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="125"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="56"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="125"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="12"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="2"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Inicio:Formaci%C3%B3n%20en%20Centros%2025-26:2%C2%BA%20Viaje%20a%20Marte"></string>
+           <string role="key" value="parent"></string>
+           <reference key="109"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="128">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="3º Razonamiento matemático"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="126">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="127">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="148_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="126"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
@@ -9716,7 +10969,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="121"></reference>
+                   <reference key="127"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -9724,7 +10977,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="128"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -9741,7 +10994,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="122"></reference>
+              <reference key="128"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -9773,7 +11026,7 @@
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="133">
+         <instance class="exe.engine.node.Node" reference="144">
           <dictionary>
            <string role="key" value="_title"></string>
            <string value=""></string>
@@ -9795,13 +11048,13 @@
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="125">
+         <instance class="exe.engine.node.Node" reference="131">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="4º Razonamiento matemático"></unicode>
+           <unicode value="3º Olimpiadas robóticas"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="123">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="129">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -9862,18 +11115,789 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="124">
+               <instance class="exe.engine.field.TextAreaField" reference="130">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <unicode value="149_2"></unicode>
+                 <unicode value="154_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="123"></reference>
+                 <reference key="129"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+    /* IMPORTACIÓN DE FUENTES */
+    @font-face {
+        font-family: 'Escolar';
+        src: url('Escolar_G.TTF') format('truetype');
+        font-weight: normal;
+    }
+    @font-face {
+        font-family: 'Escolar';
+        src: url('Escolar_N.TTF') format('truetype');
+        font-weight: bold;
+    }
+
+    :root {
+        --primary: #4834d4; /* Deep Indigo */
+        --secondary: #686de0; /* Soft Blue */
+        --accent: #f0932b; /* Orange */
+        --correct: #6ab04c; /* Green */
+        --wrong: #eb4d4b; /* Red */
+        --bg: #130f40; /* Dark Blue Background */
+        --text: #ffffff;
+    }
+
+    * { box-sizing: border-box; user-select: none; }
+
+    body {
+        font-family: 'Escolar', 'Comic Sans MS', sans-serif;
+        background-color: var(--bg);
+        background-image: 
+            radial-gradient(circle at 10% 20%, rgba(255, 255, 255, 0.1) 0%, transparent 20%),
+            radial-gradient(circle at 90% 80%, rgba(255, 255, 255, 0.1) 0%, transparent 20%);
+        margin: 0;
+        padding: 20px; /* Un poco de padding para separar del borde */
+        color: var(--text);
+        display: flex;
+        justify-content: center;
+        align-items: flex-start; /* Alineación superior para permitir scroll */
+        min-height: 100vh;
+        /* overflow: hidden; ELIMINADO para permitir scroll */
+    }
+
+    .game-container {
+        width: 100%;
+        max-width: 900px;
+        /* height: 100vh; ELIMINADO altura fija */
+        min-height: 80vh; /* Altura mínima estética */
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(10px);
+        border-radius: 20px;
+        border: 2px solid rgba(255,255,255,0.1);
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        /* overflow: hidden; ELIMINADO */
+        box-shadow: 0 0 50px rgba(0,0,0,0.5);
+        margin-bottom: 50px; /* Espacio final para scroll cómodo */
+    }
+
+    /* PANTALLAS - CAMBIO A DISPLAY FLEX/NONE PARA FLUJO NATURAL */
+    .screen {
+        /* position: absolute; ELIMINADO */
+        width: 100%; 
+        min-height: 600px; /* Altura mínima para centrar contenido */
+        display: none; /* Oculto por defecto */
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        /* Eliminamos transición de opacidad para evitar conflictos con display */
+    }
+
+    .screen.active {
+        display: flex; /* Se muestra y ocupa espacio real */
+        /* opacity: 1; pointer-events: all; z-index: 10; ELIMINADO */
+    }
+
+    /* INICIO */
+    h1 {
+        font-size: 3.5rem;
+        text-align: center;
+        color: var(--accent);
+        text-shadow: 0 5px 0 #d35400;
+        margin-bottom: 10px;
+        line-height: 1.1;
+    }
+
+    .intro-text {
+        font-size: 1.5rem;
+        text-align: center;
+        margin-bottom: 40px;
+        max-width: 600px;
+    }
+
+    .btn-start {
+        background: var(--correct);
+        color: white;
+        border: none;
+        padding: 20px 60px;
+        font-size: 2rem;
+        border-radius: 50px;
+        font-family: 'Escolar', sans-serif;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 0 8px 0 #487830;
+        transition: transform 0.1s;
+        animation: pulse 2s infinite;
+    }
+
+    .btn-start:active {
+        transform: translateY(4px);
+        box-shadow: 0 4px 0 #487830;
+    }
+
+    @keyframes pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+    }
+
+    /* JUEGO */
+    .top-bar {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 20px;
+        font-size: 1.5rem;
+        background: rgba(0,0,0,0.2);
+        border-radius: 20px 20px 0 0;
+    }
+
+    .score-box { color: var(--accent); font-weight: bold; }
+    .streak-box { color: #ffeb3b; display: none; }
+
+    .timer-bar-bg {
+        width: 100%;
+        height: 15px;
+        background: rgba(255,255,255,0.1);
+    }
+
+    .timer-bar-fill {
+        height: 100%;
+        background: var(--secondary);
+        width: 100%;
+        transition: width 0.1s linear;
+    }
+
+    .question-box {
+        background: white;
+        color: #333;
+        padding: 30px;
+        border-radius: 15px;
+        margin: 20px;
+        text-align: center;
+        font-size: 1.8rem;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        width: 90%;
+        position: relative;
+    }
+
+    .grid-options {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    /* Media Query para móviles: Botones en una columna si es estrecho */
+    @media (max-width: 600px) {
+        .grid-options {
+            grid-template-columns: 1fr;
+        }
+        h1 { font-size: 2.5rem; }
+    }
+
+    .option-btn {
+        padding: 20px;
+        font-size: 1.4rem;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+        font-family: 'Escolar', sans-serif;
+        font-weight: bold;
+        color: white;
+        transition: transform 0.1s, opacity 0.2s;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        text-align: left;
+        position: relative;
+        box-shadow: 0 6px 0 rgba(0,0,0,0.2);
+        min-height: 80px; /* Altura mínima para legibilidad */
+    }
+
+    .option-btn:hover { transform: translateY(-2px); filter: brightness(1.1); }
+    .option-btn:active { transform: translateY(2px); box-shadow: none; }
+
+    /* Colores estilo Kahoot */
+    .opt-0 { background-color: #e61919; } /* Rojo */
+    .opt-1 { background-color: #1368ce; } /* Azul */
+    .opt-2 { background-color: #d89e00; } /* Amarillo */
+    .opt-3 { background-color: #26890c; } /* Verde */
+
+    .option-icon {
+        background: rgba(0,0,0,0.2);
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 15px;
+        font-size: 1.2rem;
+        flex-shrink: 0;
+    }
+
+    /* FEEDBACK - AHORA FIXED PARA QUE SE VEA SIEMPRE */
+    .feedback-overlay {
+        position: fixed; /* Cambiado a fixed para cubrir la ventana visible */
+        top: 0; left: 0; width: 100%; height: 100%;
+        background: rgba(0,0,0,0.95);
+        z-index: 100; /* Z-index alto */
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .feedback-title { font-size: 4rem; margin-bottom: 20px; font-weight: bold; }
+    .feedback-score { font-size: 2rem; color: var(--accent); }
+    .feedback-msg { font-size: 1.8rem; margin-top: 20px; max-width: 80%; line-height: 1.4; }
+
+    /* FINAL */
+    .podium {
+        display: flex;
+        align-items: flex-end;
+        gap: 10px;
+        margin-bottom: 40px;
+    }
+    
+    .podium-bar {
+        width: 80px;
+        background: var(--secondary);
+        border-radius: 10px 10px 0 0;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        padding-bottom: 10px;
+        font-weight: bold;
+        font-size: 2rem;
+    }
+
+    .final-stats {
+        background: rgba(255,255,255,0.1);
+        padding: 30px;
+        border-radius: 15px;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 80%;
+    }
+
+    /* ANIMACIONES */
+    @keyframes shake {
+        0% { transform: translateX(0); }
+        25% { transform: translateX(-5px); }
+        50% { transform: translateX(5px); }
+        75% { transform: translateX(-5px); }
+        100% { transform: translateX(0); }
+    }
+
+    .shake { animation: shake 0.3s; }
+
+&lt;/style&gt;
+&lt;div class=&quot;game-container&quot;&gt;&lt;!-- PANTALLA 1: INICIO --&gt;
+&lt;div id=&quot;screen-start&quot; class=&quot;screen active&quot;&gt;
+&lt;h1&gt;🤖 OLIMPIADAS ROBÓTICAS&lt;/h1&gt;
+&lt;p class=&quot;intro-text&quot;&gt;¡Bienvenido al reto final de 3º de Primaria!&lt;br /&gt;Usa tu &lt;strong&gt;Pensamiento Computacional&lt;/strong&gt; y tus &lt;strong&gt;Matemáticas&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;⚡ ¡Tenéis &lt;strong&gt;3 minutos&lt;/strong&gt; por pregunta!&lt;br /&gt;📝 ¡Usad el cuaderno para calcular!&lt;br /&gt;🔥 ¡Consigue rachas de aciertos!&lt;/p&gt;
+&lt;button class=&quot;btn-start&quot; onclick=&quot;startGame()&quot;&gt;¡JUGAR!&lt;/button&gt;&lt;/div&gt;
+&lt;!-- PANTALLA 2: JUEGO --&gt;
+&lt;div id=&quot;screen-game&quot; class=&quot;screen&quot;&gt;
+&lt;div class=&quot;top-bar&quot;&gt;
+&lt;div&gt;Pregunta &lt;span id=&quot;q-num&quot;&gt;1&lt;/span&gt;/10&lt;/div&gt;
+&lt;div id=&quot;streak-display&quot; class=&quot;streak-box&quot;&gt;🔥 Racha x&lt;span id=&quot;streak-val&quot;&gt;0&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;score-box&quot;&gt;&lt;span id=&quot;score-val&quot;&gt;0&lt;/span&gt; Pts&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;timer-bar-bg&quot;&gt;
+&lt;div id=&quot;timer-bar&quot; class=&quot;timer-bar-fill&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question-box&quot; id=&quot;question-text&quot;&gt;&lt;!-- Texto pregunta --&gt;&lt;/div&gt;
+&lt;div class=&quot;grid-options&quot; id=&quot;options-area&quot;&gt;&lt;!-- Botones se generan aquí --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- PANTALLA 3: FINAL --&gt;
+&lt;div id=&quot;screen-end&quot; class=&quot;screen&quot;&gt;
+&lt;h1&gt;🎉 ¡MISIÓN CUMPLIDA! 🎉&lt;/h1&gt;
+&lt;div class=&quot;final-stats&quot;&gt;
+&lt;p style=&quot;font-size: 1.5rem;&quot;&gt;Puntuación Final&lt;/p&gt;
+&lt;div style=&quot;font-size: 5rem; color: var(--accent); font-weight: bold; margin: 10px 0;&quot; id=&quot;final-score&quot;&gt;0&lt;/div&gt;
+&lt;p id=&quot;final-feedback&quot; style=&quot;font-size: 2rem;&quot;&gt;¡Eres un crack!&lt;/p&gt;
+&lt;/div&gt;
+&lt;button class=&quot;btn-start&quot; onclick=&quot;location.reload()&quot;&gt;Jugar de Nuevo&lt;/button&gt;&lt;/div&gt;
+&lt;!-- FEEDBACK OVERLAY --&gt;
+&lt;div id=&quot;feedback-overlay&quot; class=&quot;feedback-overlay&quot;&gt;
+&lt;div class=&quot;feedback-title&quot; id=&quot;fb-title&quot;&gt;¡CORRECTO!&lt;/div&gt;
+&lt;div class=&quot;feedback-score&quot; id=&quot;fb-points&quot;&gt;+0 Pts&lt;/div&gt;
+&lt;div class=&quot;feedback-msg&quot; id=&quot;fb-msg&quot;&gt;Explicación breve...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+    // --- DATOS DEL JUEGO ---
+    const questions = [
+        {
+            q: &quot;Tenemos 120 robots rojos, 230 azules y 50 verdes. Usando DESCOMPOSICIÓN, ¿cómo sumamos mentalmente?&quot;,
+            opts: [
+                &quot;(100+200) + (20+30+50) = 400&quot;,
+                &quot;120 + 230 + 50 = 390&quot;,
+                &quot;Sumar solo centenas: 300&quot;,
+                &quot;(100+200) + (20+30) = 350&quot;
+            ],
+            correct: 0,
+            feedback: &quot;¡Exacto! Sumamos centenas por un lado (300) y decenas por otro (100). Total 400.&quot;
+        },
+        {
+            q: &quot;Patrón de entrada: 🔴 Rojo, 🔵 Azul, 🔵 Azul, 🔴 Rojo... ¿De qué color es el robot nº 10?&quot;,
+            opts: [
+                &quot;🔵 Azul&quot;,
+                &quot;🔴 Rojo&quot;,
+                &quot;🟢 Verde&quot;,
+                &quot;🟡 Amarillo&quot;
+            ],
+            correct: 1,
+            feedback: &quot;¡Bien visto! El patrón es de 3 (Rojo, Azul, Azul). El 10º empieza ciclo nuevo, así que es Rojo.&quot;
+        },
+        {
+            q: &quot;ALGORITMO: El robot está en A1 y debe ir a C3 (moviendo solo recto). ¿Cuál es el código?&quot;,
+            opts: [
+                &quot;Saltar a C3&quot;,
+                &quot;1 Norte, 3 Oeste&quot;,
+                &quot;2 Este (derecha), 2 Sur (abajo)&quot;,
+                &quot;3 Sur (abajo)&quot;
+            ],
+            correct: 2,
+            feedback: &quot;¡Correcto! A -&gt; B -&gt; C (2 pasos Este) y 1 -&gt; 2 -&gt; 3 (2 pasos Sur).&quot;
+        },
+        {
+            q: &quot;ABSTRACCIÓN: Aceite marca 'SuperLube', lata plateada, vale 5€, necesito 8 latas. ¿Coste total?&quot;,
+            opts: [
+                &quot;13 €&quot;,
+                &quot;45 €&quot;,
+                &quot;No se puede saber&quot;,
+                &quot;40 €&quot;
+            ],
+            correct: 3,
+            feedback: &quot;¡Eso es abstracción! Solo importan el precio (5€) y la cantidad (8). 5 x 8 = 40€.&quot;
+        },
+        {
+            q: &quot;LÓGICA: Gana medalla SI (Salto &gt; 200) Y (Aterrizaje = Perfecto). Robot C: 205 cm, Perfecto. ¿Gana?&quot;,
+            opts: [
+                &quot;Sí, gana medalla&quot;,
+                &quot;No, saltó poco&quot;,
+                &quot;Depende del juez&quot;,
+                &quot;No, falló el aterrizaje&quot;
+            ],
+            correct: 0,
+            feedback: &quot;¡Lógica pura! 205 es mayor que 200 Y el aterrizaje fue Perfecto. Cumple ambas.&quot;
+        },
+        {
+            q: &quot;REPARTO: Hay 36 baterías para 4 equipos. Queremos repartir igual. ¿Cuántas para cada uno?&quot;,
+            opts: [
+                &quot;8 baterías&quot;,
+                &quot;9 baterías&quot;,
+                &quot;6 baterías&quot;,
+                &quot;10 baterías&quot;
+            ],
+            correct: 1,
+            feedback: &quot;¡División exacta! 36 dividido entre 4 es 9. (4 x 9 = 36).&quot;
+        },
+        {
+            q: &quot;TIEMPO: La carrera empieza a las 11:30 y dura 45 minutos. ¿A qué hora termina?&quot;,
+            opts: [
+                &quot;12:00&quot;,
+                &quot;11:75&quot;,
+                &quot;12:15&quot;,
+                &quot;12:30&quot;
+            ],
+            correct: 2,
+            feedback: &quot;¡Ojo al reloj! 11:30 + 30min = 12:00. Nos quedan 15 minutos más: 12:15.&quot;
+        },
+        {
+            q: &quot;DEBUGGING: Encuentra el error. Cálculo del juez: 500 - 150 = 450. ¿Cuál es la corrección?&quot;,
+            opts: [
+                &quot;Es correcto&quot;,
+                &quot;Debe ser 250&quot;,
+                &quot;Debe ser 400&quot;,
+                &quot;Debe ser 350&quot;
+            ],
+            correct: 3,
+            feedback: &quot;¡Bug encontrado! 500 - 100 = 400. 400 - 50 = 350.&quot;
+        },
+        {
+            q: &quot;ALGORITMO DE COSTE: 4 robots, 2 piernas cada uno. Calcetines a 3€ el par. ¿Pasos?&quot;,
+            opts: [
+                &quot;4 robots + 3€&quot;,
+                &quot;4 x 3€ = 12€ (total)&quot;,
+                &quot;4 robots x 1 par = 4 pares. 4 x 3€ = 12€&quot;,
+                &quot;Dividir 4 entre 2&quot;
+            ],
+            correct: 2,
+            feedback: &quot;¡Secuenciación perfecta! 1º Calculamos pares (4), 2º Calculamos precio (12€).&quot;
+        },
+        {
+            q: &quot;DOS PASOS: Tienes 100€. Gastas 45€ en trofeos y 25€ en banderas. ¿Cuánto sobra?&quot;,
+            opts: [
+                &quot;30 €&quot;,
+                &quot;20 €&quot;,
+                &quot;40 €&quot;,
+                &quot;70 €&quot;
+            ],
+            correct: 0,
+            feedback: &quot;¡Muy bien! Gastas 70€ en total (45+25). Te sobran 30€ (100-70).&quot;
+        }
+    ];
+
+    // --- VARIABLES DE ESTADO ---
+    let currentQIndex = 0;
+    let score = 0;
+    let streak = 0;
+    let timeLeft = 0;
+    let timerInterval;
+    const TIME_PER_QUESTION = 180; // 3 MINUTOS (180 segundos)
+    const MAX_POINTS = 1000; // Puntos base máx por pregunta
+
+    // --- ELEMENTOS DOM ---
+    const screens = {
+        start: document.getElementById('screen-start'),
+        game: document.getElementById('screen-game'),
+        end: document.getElementById('screen-end')
+    };
+    
+    const ui = {
+        qNum: document.getElementById('q-num'),
+        score: document.getElementById('score-val'),
+        streakBox: document.getElementById('streak-display'),
+        streakVal: document.getElementById('streak-val'),
+        timerBar: document.getElementById('timer-bar'),
+        qText: document.getElementById('question-text'),
+        optsArea: document.getElementById('options-area'),
+        fbOverlay: document.getElementById('feedback-overlay'),
+        fbTitle: document.getElementById('fb-title'),
+        fbPoints: document.getElementById('fb-points'),
+        fbMsg: document.getElementById('fb-msg'),
+        finalScore: document.getElementById('final-score'),
+        finalFb: document.getElementById('final-feedback')
+    };
+
+    // --- FUNCIONES DE JUEGO ---
+
+    function showScreen(name) {
+        // Ocultar todas
+        Object.values(screens).forEach(s =&gt; {
+            s.classList.remove('active');
+            s.style.display = 'none'; // Asegurar que no ocupan espacio
+        });
+        // Mostrar la deseada
+        const current = screens[name];
+        current.style.display = 'flex';
+        // Pequeño timeout para que la clase active permita transiciones si las hubiera (opcional aquí)
+        setTimeout(() =&gt; current.classList.add('active'), 10);
+    }
+
+    function startGame() {
+        score = 0;
+        streak = 0;
+        currentQIndex = 0;
+        showScreen('game');
+        updateStats();
+        loadQuestion();
+    }
+
+    function loadQuestion() {
+        if (currentQIndex &gt;= questions.length) {
+            endGame();
+            return;
+        }
+
+        const q = questions[currentQIndex];
+        
+        // UI Updates
+        ui.qNum.innerText = currentQIndex + 1;
+        ui.qText.innerText = q.q;
+        ui.optsArea.innerHTML = '';
+        
+        // Timer Reset
+        timeLeft = TIME_PER_QUESTION;
+        ui.timerBar.style.width = '100%';
+        ui.timerBar.style.backgroundColor = '#686de0'; // Reset color
+        
+        // Generar botones aleatorios para que no siempre sea la misma posición
+        // (Aunque para este ejemplo mantendré el orden para simplicidad de lectura,
+        // pero en un juego real se suele barajar).
+        // Aquí vamos a mantener el orden del array pero mapear el índice correcto.
+        
+        q.opts.forEach((optText, index) =&gt; {
+            const btn = document.createElement('button');
+            btn.className = `option-btn opt-${index}`;
+            
+            // Iconos formas geométricas (tipo Kahoot)
+            const shapes = ['▲', '◆', '●', '■'];
+            
+            btn.innerHTML = `&lt;div class=&quot;option-icon&quot;&gt;${shapes[index]}&lt;/div&gt; ${optText}`;
+            btn.onclick = () =&gt; checkAnswer(index);
+            ui.optsArea.appendChild(btn);
+        });
+
+        startTimer();
+    }
+
+    function startTimer() {
+        clearInterval(timerInterval);
+        timerInterval = setInterval(() =&gt; {
+            timeLeft -= 0.1;
+            const percentage = (timeLeft / TIME_PER_QUESTION) * 100;
+            ui.timerBar.style.width = `${percentage}%`;
+
+            if (percentage &lt; 30) ui.timerBar.style.backgroundColor = '#eb4d4b'; // Rojo alerta
+
+            if (timeLeft &lt;= 0) {
+                clearInterval(timerInterval);
+                timeOut();
+            }
+        }, 100);
+    }
+
+    function checkAnswer(selectedIndex) {
+        clearInterval(timerInterval);
+        const q = questions[currentQIndex];
+        const isCorrect = selectedIndex === q.correct;
+
+        if (isCorrect) {
+            // Calcular puntos: Base + (Tiempo restante / Total) * 500
+            // Kahoot formula aprox: (1 - (timeElapsed / timeAvailable) / 2) * 1000
+            // Simplifiquemos: Puntos proporcionales al tiempo
+            const timeRatio = timeLeft / TIME_PER_QUESTION;
+            let pointsEarned = Math.round(MAX_POINTS * timeRatio);
+            if (pointsEarned &lt; 200) pointsEarned = 200; // Mínimo por acertar
+
+            // Bonus de racha
+            streak++;
+            if (streak &gt; 2) pointsEarned += 100;
+            if (streak &gt; 4) pointsEarned += 200;
+
+            score += pointsEarned;
+            showFeedback(true, pointsEarned, q.feedback);
+        } else {
+            streak = 0;
+            showFeedback(false, 0, q.feedback);
+        }
+    }
+
+    function timeOut() {
+        streak = 0;
+        showFeedback(false, 0, &quot;¡Se acabó el tiempo! ⏳&quot;);
+    }
+
+    function showFeedback(isCorrect, points, msg) {
+        ui.fbOverlay.style.display = 'flex';
+        
+        if (isCorrect) {
+            ui.fbTitle.innerText = &quot;¡CORRECTO!&quot;;
+            ui.fbTitle.style.color = &quot;var(--correct)&quot;;
+            ui.fbPoints.innerText = `+${points} Pts`;
+            // Efecto racha
+            if (streak &gt; 1) ui.fbPoints.innerText += ` (Racha x${streak} 🔥)`;
+        } else {
+            ui.fbTitle.innerText = &quot;¡INCORRECTO!&quot;;
+            ui.fbTitle.style.color = &quot;var(--wrong)&quot;;
+            ui.fbPoints.innerText = &quot;+0 Pts&quot;;
+            // Animación shake en la pregunta de fondo (opcional)
+        }
+        
+        ui.fbMsg.innerText = msg;
+        updateStats();
+
+        // Esperar y pasar a la siguiente
+        setTimeout(() =&gt; {
+            ui.fbOverlay.style.display = 'none';
+            currentQIndex++;
+            loadQuestion();
+        }, 3000); // 3 segundos para leer
+    }
+
+    function updateStats() {
+        ui.score.innerText = score.toLocaleString();
+        if (streak &gt; 1) {
+            ui.streakBox.style.display = 'block';
+            ui.streakVal.innerText = streak;
+        } else {
+            ui.streakBox.style.display = 'none';
+        }
+    }
+
+    function endGame() {
+        showScreen('end');
+        ui.finalScore.innerText = score.toLocaleString();
+        
+        let msg = &quot;&quot;;
+        if (score &gt; 8000) msg = &quot;¡Nivel Legendario! 🏆 Eres un genio robótico.&quot;;
+        else if (score &gt; 5000) msg = &quot;¡Gran trabajo! 🥈 Casi perfecto.&quot;;
+        else msg = &quot;¡Buen intento! 🥉 Sigue practicando.&quot;;
+        ui.finalFb.innerText = msg;
+    }
+
+&lt;/script&gt;
+&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="130"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="131"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="53"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="131"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="21"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="2"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Inicio:Formaci%C3%B3n%20en%20Centros%2025-26:3%C2%BA%20Olimpiadas%20rob%C3%B3ticas"></string>
+           <string role="key" value="parent"></string>
+           <reference key="109"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="134">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="4º Razonamiento matemático"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="132">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="133">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="149_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="132"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
@@ -10439,7 +12463,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="124"></reference>
+                   <reference key="133"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -10447,7 +12471,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="134"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -10464,7 +12488,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="125"></reference>
+              <reference key="134"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -10496,35 +12520,13 @@
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="134">
+         <instance class="exe.engine.node.Node" reference="137">
           <dictionary>
            <string role="key" value="_title"></string>
-           <string value=""></string>
-           <string role="key" value="idevices"></string>
-           <list></list>
-           <string role="key" value="_id"></string>
-           <unicode value="16"></unicode>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exportType"></string>
-           <string value="website"></string>
-           <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Inicio:Formaci%C3%B3n%20en%20Centros%2025-26:Secci%C3%B3n"></string>
-           <string role="key" value="parent"></string>
-           <reference key="109"></reference>
-           <string role="key" value="children"></string>
-           <list></list>
-          </dictionary>
-         </instance>
-         <instance class="exe.engine.node.Node" reference="128">
-          <dictionary>
-           <string role="key" value="_title"></string>
-           <unicode value="5º Razonamiento matemático"></unicode>
+           <unicode value="4º Aventura submarina"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="126">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="135">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -10585,18 +12587,774 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="127">
+               <instance class="exe.engine.field.TextAreaField" reference="136">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <unicode value="150_2"></unicode>
+                 <unicode value="158_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="126"></reference>
+                 <reference key="135"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+    /* IMPORTACIÓN DE FUENTES - Estilo Escolar */
+    @font-face {
+        font-family: 'Escolar';
+        src: url('Escolar_G.TTF') format('truetype');
+        font-weight: normal;
+    }
+    @font-face {
+        font-family: 'Escolar';
+        src: url('Escolar_N.TTF') format('truetype');
+        font-weight: bold;
+    }
+
+    :root {
+        /* Paleta Submarina */
+        --bg-deep: #001e3c; /* Azul Profundo */
+        --primary: #00a8ff; /* Azul Océano */
+        --accent: #ff7979; /* Coral */
+        --sand: #f1c40f;   /* Arena/Oro */
+        --correct: #2ecc71; /* Verde Alga */
+        --wrong: #e74c3c;   /* Rojo Alerta */
+        --text: #ffffff;
+        --glass: rgba(255, 255, 255, 0.1);
+    }
+
+    * { box-sizing: border-box; user-select: none; }
+
+    body {
+        font-family: 'Escolar', 'Comic Sans MS', sans-serif;
+        background-color: var(--bg-deep);
+        /* Fondo de burbujas */
+        background-image: 
+            radial-gradient(rgba(255,255,255,0.1) 8%, transparent 8%),
+            radial-gradient(rgba(255,255,255,0.1) 8%, transparent 8%);
+        background-size: 60px 60px;
+        background-position: 0 0, 30px 30px;
+        margin: 0;
+        padding: 20px;
+        color: var(--text);
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+    }
+
+    .game-container {
+        width: 100%;
+        max-width: 900px;
+        min-height: 85vh;
+        background: linear-gradient(180deg, #0984e3 0%, #001e3c 100%);
+        border-radius: 30px;
+        border: 4px solid #74b9ff;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        box-shadow: 0 0 40px rgba(0, 168, 255, 0.4);
+        margin-bottom: 50px;
+        overflow: hidden;
+    }
+
+    /* PANTALLAS */
+    .screen {
+        width: 100%; 
+        min-height: 600px;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        text-align: center;
+        z-index: 2;
+    }
+
+    .screen.active {
+        display: flex;
+    }
+
+    /* INICIO */
+    h1 {
+        font-size: 3.8rem;
+        color: var(--sand);
+        text-shadow: 0 2px 0 #d35400;
+        margin-bottom: 20px;
+        line-height: 1.1;
+    }
+
+    .intro-text {
+        font-size: 1.8rem;
+        margin-bottom: 40px;
+        color: #dff9fb;
+        line-height: 1.5;
+        background: rgba(0,0,0,0.3);
+        padding: 20px;
+        border-radius: 20px;
+    }
+
+    .btn-start {
+        background: linear-gradient(to bottom, #00cec9, #00b894);
+        color: white;
+        border: 2px solid #55efc4;
+        padding: 25px 60px;
+        font-size: 2.2rem;
+        border-radius: 50px;
+        font-family: 'Escolar', sans-serif;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 0 8px 0 #006266;
+        transition: transform 0.1s;
+        animation: float 3s infinite ease-in-out;
+    }
+
+    .btn-start:active {
+        transform: translateY(6px);
+        box-shadow: 0 4px 0 #006266;
+    }
+
+    @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+    }
+
+    /* JUEGO */
+    .top-bar {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 15px 30px;
+        font-size: 1.8rem;
+        background: rgba(0,0,0,0.3);
+        border-bottom: 2px solid #74b9ff;
+    }
+
+    .score-box { color: var(--sand); font-weight: bold; }
+
+    /* Barra de tiempo */
+    .timer-bar-bg {
+        width: 100%;
+        height: 15px;
+        background: rgba(255,255,255,0.2);
+    }
+
+    .timer-bar-fill {
+        height: 100%;
+        background: var(--sand);
+        width: 100%;
+        transition: width 1s linear;
+        border-radius: 0 10px 10px 0;
+    }
+
+    .question-box {
+        background: var(--glass);
+        border: 2px solid rgba(255,255,255,0.3);
+        backdrop-filter: blur(5px);
+        color: white;
+        padding: 25px;
+        border-radius: 20px;
+        margin: 20px;
+        text-align: center;
+        font-size: 2rem;
+        width: 90%;
+        line-height: 1.4;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+    }
+
+    .grid-options {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        width: 95%;
+        margin-bottom: 30px;
+    }
+
+    @media (max-width: 700px) {
+        .grid-options { grid-template-columns: 1fr; }
+        h1 { font-size: 3rem; }
+        .question-box { font-size: 1.6rem; }
+    }
+
+    .option-btn {
+        padding: 20px;
+        font-size: 1.6rem;
+        border: none;
+        border-radius: 15px;
+        cursor: pointer;
+        font-family: 'Escolar', sans-serif;
+        font-weight: bold;
+        color: white;
+        transition: transform 0.1s;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        text-align: left;
+        position: relative;
+        box-shadow: 0 6px 0 rgba(0,0,0,0.3);
+        min-height: 90px;
+        background-color: #2c3e50; /* Fallback */
+    }
+
+    .option-btn:active { transform: translateY(4px); box-shadow: none; }
+
+    /* Colores botones temáticos */
+    .opt-0 { background-color: #e84393; } /* Rosa Coral */
+    .opt-1 { background-color: #0984e3; } /* Azul Mar */
+    .opt-2 { background-color: #f39c12; } /* Naranja Pez */
+    .opt-3 { background-color: #00b894; } /* Verde Alga */
+
+    .option-icon {
+        font-size: 2.2rem;
+        margin-right: 15px;
+        background: rgba(0,0,0,0.2);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-shrink: 0;
+    }
+
+    /* FEEDBACK FLOTANTE NEUTRO */
+    .feedback-overlay {
+        position: fixed;
+        top: 0; left: 0; width: 100%; height: 100%;
+        background: rgba(0, 30, 60, 0.95);
+        z-index: 100;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+        color: white;
+    }
+
+    .feedback-emoji { font-size: 6rem; margin-bottom: 20px; }
+    .feedback-title { font-size: 3.5rem; margin-bottom: 20px; font-weight: bold; color: var(--sand); }
+    .feedback-msg { font-size: 2rem; line-height: 1.5; max-width: 800px; background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; }
+
+    /* FINAL */
+    .final-stats {
+        background: var(--glass);
+        border: 2px solid var(--sand);
+        padding: 40px;
+        border-radius: 30px;
+        text-align: center;
+        margin-bottom: 30px;
+        width: 90%;
+    }
+
+&lt;/style&gt;
+&lt;div class=&quot;game-container&quot;&gt;&lt;!-- PANTALLA 1: INICIO --&gt;
+&lt;div id=&quot;screen-start&quot; class=&quot;screen active&quot;&gt;
+&lt;h1&gt;🐙 AVENTURA SUBMARINA ⚓&lt;/h1&gt;
+&lt;p class=&quot;intro-text&quot;&gt;¡Buzo! Prepárate para sumergirte.&lt;br /&gt;Resolveremos retos de &lt;strong&gt;4º de Primaria&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;15 Niveles de Profundidad&lt;/strong&gt;&lt;br /&gt;⏳ 3 minutos por nivel.&lt;/p&gt;
+&lt;button class=&quot;btn-start&quot; onclick=&quot;startGame()&quot;&gt;¡AL AGUA!&lt;/button&gt;&lt;/div&gt;
+&lt;!-- PANTALLA 2: JUEGO --&gt;
+&lt;div id=&quot;screen-game&quot; class=&quot;screen&quot;&gt;
+&lt;div class=&quot;top-bar&quot;&gt;
+&lt;div&gt;Nivel &lt;span id=&quot;q-num&quot;&gt;1&lt;/span&gt; de 15&lt;/div&gt;
+&lt;div class=&quot;score-box&quot;&gt;💰 &lt;span id=&quot;score-val&quot;&gt;0&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;timer-bar-bg&quot;&gt;
+&lt;div id=&quot;timer-bar&quot; class=&quot;timer-bar-fill&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;question-box&quot; id=&quot;question-text&quot;&gt;&lt;!-- Texto pregunta --&gt;&lt;/div&gt;
+&lt;div class=&quot;grid-options&quot; id=&quot;options-area&quot;&gt;&lt;!-- Botones se generan aquí --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- PANTALLA 3: FINAL --&gt;
+&lt;div id=&quot;screen-end&quot; class=&quot;screen&quot;&gt;
+&lt;h1&gt;🔱 ¡TESORO ENCONTRADO! 🔱&lt;/h1&gt;
+&lt;div class=&quot;final-stats&quot;&gt;
+&lt;p style=&quot;font-size: 2rem;&quot;&gt;Tu botín:&lt;/p&gt;
+&lt;div style=&quot;font-size: 6rem; color: var(--sand); font-weight: bold; margin: 10px 0;&quot; id=&quot;final-score&quot;&gt;0&lt;/div&gt;
+&lt;p style=&quot;font-size: 2.2rem;&quot;&gt;Monedas de Oro&lt;/p&gt;
+&lt;/div&gt;
+&lt;button class=&quot;btn-start&quot; onclick=&quot;location.reload()&quot;&gt;Nueva Inmersión&lt;/button&gt;&lt;/div&gt;
+&lt;!-- FEEDBACK OVERLAY --&gt;
+&lt;div id=&quot;feedback-overlay&quot; class=&quot;feedback-overlay&quot;&gt;
+&lt;div class=&quot;feedback-emoji&quot; id=&quot;fb-emoji&quot;&gt;🐢&lt;/div&gt;
+&lt;div class=&quot;feedback-title&quot; id=&quot;fb-title&quot;&gt;DIARIO DE BITÁCORA&lt;/div&gt;
+&lt;div class=&quot;feedback-msg&quot; id=&quot;fb-msg&quot;&gt;Mensaje...&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+    // --- DATOS DEL JUEGO (4º PRIMARIA: Aventura Submarina) ---
+    // Nivel 4º: Fracciones, Decimales, Ángulos, Unidades de medida, Operaciones combinadas.
+    
+    const questions = [
+        {
+            q: &quot;⚓ Profundidad: El submarino baja a 450 metros. Luego baja 235 metros más. ¿A qué profundidad está ahora?&quot;,
+            opts: [
+                &quot;685 metros&quot;,
+                &quot;215 metros&quot;,
+                &quot;600 metros&quot;,
+                &quot;695 metros&quot;
+            ],
+            correct: 0, 
+            feedback: &quot;Si baja más, sumamos las profundidades: 450 + 235 = 685 metros.&quot;
+        },
+        {
+            q: &quot;🐟 Bancos de Peces: Hay 12 bancos de peces. En cada banco hay 25 peces. ¿Cuántos peces hay en total?&quot;,
+            opts: [
+                &quot;37 peces&quot;,
+                &quot;300 peces&quot;,
+                &quot;250 peces&quot;,
+                &quot;150 peces&quot;
+            ],
+            correct: 1,
+            feedback: &quot;Es una multiplicación: 12 veces 25. 10 x 25 = 250, y 2 x 25 = 50. Total 300 peces.&quot;
+        },
+        {
+            q: &quot;➗ Oxígeno: Tenemos 120 botellas de oxígeno para repartir entre 4 buzos. ¿Cuántas tocan a cada uno?&quot;,
+            opts: [
+                &quot;40 botellas&quot;,
+                &quot;35 botellas&quot;,
+                &quot;30 botellas&quot;,
+                &quot;25 botellas&quot;
+            ],
+            correct: 2,
+            feedback: &quot;Dividimos 120 entre 4. Como 12 entre 4 es 3, entonces 120 entre 4 es 30.&quot;
+        },
+        {
+            q: &quot;🍰 Fracciones: Un pulpo se ha comido 3/4 de las 20 cangreburguers. ¿Cuántas se ha comido?&quot;,
+            opts: [
+                &quot;5 cangreburguers&quot;,
+                &quot;10 cangreburguers&quot;,
+                &quot;15 cangreburguers&quot;,
+                &quot;12 cangreburguers&quot;
+            ],
+            correct: 2,
+            feedback: &quot;Calculamos 1/4 de 20 (20:4 = 5). Como son 3/4, multiplicamos 5 x 3 = 15.&quot;
+        },
+        {
+            q: &quot;💶 Tienda del Puerto: Las aletas cuestan 12,50 € y las gafas 5,25 €. ¿Cuánto cuesta todo?&quot;,
+            opts: [
+                &quot;17,75 €&quot;,
+                &quot;17,25 €&quot;,
+                &quot;18,00 €&quot;,
+                &quot;16,75 €&quot;
+            ],
+            correct: 0,
+            feedback: &quot;Sumamos alineando la coma: 12,50 + 5,25. \n 50 + 25 = 75 céntimos. \n 12 + 5 = 17 euros. \n Total 17,75 €.&quot;
+        },
+        {
+            q: &quot;📏 Distancia: El arrecife está a 3 Kilómetros y medio. ¿Cuántos METROS son?&quot;,
+            opts: [
+                &quot;3050 metros&quot;,
+                &quot;3500 metros&quot;,
+                &quot;3005 metros&quot;,
+                &quot;350 metros&quot;
+            ],
+            correct: 1,
+            feedback: &quot;1 km son 1000 m. 3 km son 3000 m. Medio km son 500 m. Total 3500 m.&quot;
+        },
+        {
+            q: &quot;📐 Ángulos: El capitán gira el timón formando una esquina cuadrada (90º). ¿Qué tipo de ángulo es?&quot;,
+            opts: [
+                &quot;Agudo&quot;,
+                &quot;Obtuso&quot;,
+                &quot;Llano&quot;,
+                &quot;Recto&quot;
+            ],
+            correct: 3,
+            feedback: &quot;Un ángulo de 90 grados exactos se llama Ángulo Recto.&quot;
+        },
+        {
+            q: &quot;💧 Capacidad: Un tanque tiene 500 cl de agua. ¿Cuántos LITROS son?&quot;,
+            opts: [
+                &quot;5 Litros&quot;,
+                &quot;50 Litros&quot;,
+                &quot;0,5 Litros&quot;,
+                &quot;5000 Litros&quot;
+            ],
+            correct: 0,
+            feedback: &quot;Para pasar de centilitros (cl) a Litros (l) dividimos entre 100. 500 : 100 = 5 Litros.&quot;
+        },
+        {
+            q: &quot;🔢 Decimales: ¿Qué número es MAYOR?&quot;,
+            opts: [
+                &quot;4,09&quot;,
+                &quot;4,9&quot;,
+                &quot;4,89&quot;,
+                &quot;4,19&quot;
+            ],
+            correct: 1,
+            feedback: &quot;Comparamos las décimas (el primer número tras la coma). 9 es mayor que 0, 8 o 1. Por tanto 4,9 es el mayor.&quot;
+        },
+        {
+            q: &quot;🕰️ Tiempo de Inmersión: Entramos al agua a las 10:15 y salimos a las 11:00. ¿Cuánto tiempo hemos buceado?&quot;,
+            opts: [
+                &quot;30 minutos&quot;,
+                &quot;45 minutos&quot;,
+                &quot;1 hora&quot;,
+                &quot;15 minutos&quot;
+            ],
+            correct: 1,
+            feedback: &quot;De 10:15 a 11:00 faltan tres cuartos de hora, es decir, 45 minutos.&quot;
+        },
+        {
+            q: &quot;⚖️ Peso: Hemos encontrado un cofre que pesa 2 kg y 500 g. ¿Cuántos GRAMOS son en total?&quot;,
+            opts: [
+                &quot;2050 g&quot;,
+                &quot;2500 g&quot;,
+                &quot;250 g&quot;,
+                &quot;2005 g&quot;
+            ],
+            correct: 1,
+            feedback: &quot;2 kg son 2000 g. Si sumamos 500 g más, tenemos 2500 gramos.&quot;
+        },
+        {
+            q: &quot;🧱 Perímetro: La base submarina es rectangular: 10 m de largo y 5 m de ancho. ¿Cuánto mide su perímetro?&quot;,
+            opts: [
+                &quot;15 metros&quot;,
+                &quot;50 metros&quot;,
+                &quot;30 metros&quot;,
+                &quot;25 metros&quot;
+            ],
+            correct: 2,
+            feedback: &quot;El perímetro es la suma de TODOS los lados: 10 + 5 + 10 + 5 = 30 metros.&quot;
+        },
+        {
+            q: &quot;🍕 Comparar Fracciones: ¿Qué preferirías si tienes mucha hambre? ¿1/2 de pizza o 1/4 de pizza?&quot;,
+            opts: [
+                &quot;1/2 (La mitad)&quot;,
+                &quot;1/4 (Un cuarto)&quot;,
+                &quot;Son iguales&quot;,
+                &quot;Ninguna&quot;
+            ],
+            correct: 0,
+            feedback: &quot;1/2 es la mitad. 1/4 es la mitad de la mitad. Por tanto, 1/2 es más grande.&quot;
+        },
+        {
+            q: &quot;🔢 Series: El sonar detecta una señal: 150, 300, 450, ... ¿Qué viene ahora?&quot;,
+            opts: [
+                &quot;500&quot;,
+                &quot;550&quot;,
+                &quot;600&quot;,
+                &quot;650&quot;
+            ],
+            correct: 2,
+            feedback: &quot;La serie va sumando 150 cada vez. 450 + 150 = 600.&quot;
+        },
+        {
+            q: &quot;🤔 Lógica: En el barco hay 3 buzos. Cada uno lleva 2 aletas y 1 bombona. ¿Cuántos objetos llevan en total?&quot;,
+            opts: [
+                &quot;6 objetos&quot;,
+                &quot;9 objetos&quot;,
+                &quot;12 objetos&quot;,
+                &quot;3 objetos&quot;
+            ],
+            correct: 1,
+            feedback: &quot;Cada buzo lleva 3 cosas (2 aletas + 1 bombona). Si hay 3 buzos: 3 x 3 = 9 objetos.&quot;
+        }
+    ];
+
+    // --- VARIABLES DE ESTADO ---
+    let currentQIndex = 0;
+    let score = 0;
+    let timeLeft = 0;
+    let timerInterval;
+    const TIME_PER_QUESTION = 180; // 3 MINUTOS
+    const POINTS_PER_QUESTION = 100; 
+
+    // --- ELEMENTOS DOM ---
+    const screens = {
+        start: document.getElementById('screen-start'),
+        game: document.getElementById('screen-game'),
+        end: document.getElementById('screen-end')
+    };
+    
+    const ui = {
+        qNum: document.getElementById('q-num'),
+        score: document.getElementById('score-val'),
+        timerBar: document.getElementById('timer-bar'),
+        qText: document.getElementById('question-text'),
+        optsArea: document.getElementById('options-area'),
+        fbOverlay: document.getElementById('feedback-overlay'),
+        fbTitle: document.getElementById('fb-title'),
+        fbEmoji: document.getElementById('fb-emoji'),
+        fbMsg: document.getElementById('fb-msg'),
+        finalScore: document.getElementById('final-score')
+    };
+
+    // --- FUNCIONES ---
+
+    function showScreen(name) {
+        Object.values(screens).forEach(s =&gt; {
+            s.classList.remove('active');
+            s.style.display = 'none';
+        });
+        const current = screens[name];
+        current.style.display = 'flex';
+        setTimeout(() =&gt; current.classList.add('active'), 10);
+    }
+
+    function startGame() {
+        score = 0;
+        currentQIndex = 0;
+        showScreen('game');
+        updateStats();
+        loadQuestion();
+    }
+
+    function loadQuestion() {
+        if (currentQIndex &gt;= questions.length) {
+            endGame();
+            return;
+        }
+
+        const q = questions[currentQIndex];
+        
+        ui.qNum.innerText = currentQIndex + 1;
+        ui.qText.innerText = q.q;
+        ui.optsArea.innerHTML = '';
+        
+        // Reset Timer
+        timeLeft = TIME_PER_QUESTION;
+        ui.timerBar.style.width = '100%';
+        ui.timerBar.style.backgroundColor = '#f1c40f'; // Color arena
+        
+        q.opts.forEach((optText, index) =&gt; {
+            const btn = document.createElement('button');
+            btn.className = `option-btn opt-${index}`;
+            // Iconos
+            const icons = ['🦀', '🐠', '⚓', '🐚']; 
+            btn.innerHTML = `&lt;span class=&quot;option-icon&quot;&gt;${icons[index]}&lt;/span&gt; ${optText}`;
+            btn.onclick = () =&gt; checkAnswer(index);
+            ui.optsArea.appendChild(btn);
+        });
+
+        startTimer();
+    }
+
+    function startTimer() {
+        clearInterval(timerInterval);
+        timerInterval = setInterval(() =&gt; {
+            timeLeft -= 1; 
+            const percentage = (timeLeft / TIME_PER_QUESTION) * 100;
+            ui.timerBar.style.width = `${percentage}%`;
+
+            if (percentage &lt; 20) ui.timerBar.style.backgroundColor = '#e74c3c'; // Rojo alerta
+
+            if (timeLeft &lt;= 0) {
+                clearInterval(timerInterval);
+                showFeedback(false, &quot;¡Se acabó el oxígeno! (Tiempo agotado) ⏳&quot;);
+            }
+        }, 1000);
+    }
+
+    function checkAnswer(selectedIndex) {
+        clearInterval(timerInterval);
+        const q = questions[currentQIndex];
+        const isCorrect = selectedIndex === q.correct;
+
+        if (isCorrect) {
+            score += POINTS_PER_QUESTION;
+            if(timeLeft &gt; 100) score += 50; // Bonus velocidad
+            showFeedback(true, q.feedback);
+        } else {
+            showFeedback(false, q.feedback);
+        }
+    }
+
+    function showFeedback(isCorrect, msg) {
+        ui.fbOverlay.style.display = 'flex';
+        
+        if (isCorrect) {
+            ui.fbTitle.innerText = &quot;¡CORRECTO!&quot;;
+            ui.fbTitle.style.color = &quot;var(--correct)&quot;;
+            ui.fbEmoji.innerText = &quot;💎&quot;;
+        } else {
+            ui.fbTitle.innerText = &quot;REVISEMOS&quot;; 
+            ui.fbTitle.style.color = &quot;var(--sand)&quot;;
+            ui.fbEmoji.innerText = &quot;🦐&quot;;
+        }
+        
+        ui.fbMsg.innerText = msg;
+        updateStats();
+
+        // 6 segundos para leer
+        setTimeout(() =&gt; {
+            ui.fbOverlay.style.display = 'none';
+            currentQIndex++;
+            loadQuestion();
+        }, 6000); 
+    }
+
+    function updateStats() {
+        ui.score.innerText = score;
+    }
+
+    function endGame() {
+        showScreen('end');
+        ui.finalScore.innerText = score;
+    }
+
+&lt;/script&gt;
+&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="136"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="137"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="57"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="137"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="16"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="2"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Inicio:Formaci%C3%B3n%20en%20Centros%2025-26:4%C2%BA%20Aventura%20submarina"></string>
+           <string role="key" value="parent"></string>
+           <reference key="109"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="140">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="5º Razonamiento matemático"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="138">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="139">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="150_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="138"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
@@ -11194,7 +13952,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="127"></reference>
+                   <reference key="139"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -11202,7 +13960,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="140"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -11219,7 +13977,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="128"></reference>
+              <reference key="140"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -11251,7 +14009,7 @@
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="135">
+         <instance class="exe.engine.node.Node" reference="145">
           <dictionary>
            <string role="key" value="_title"></string>
            <string value=""></string>
@@ -11273,13 +14031,13 @@
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="131">
+         <instance class="exe.engine.node.Node" reference="143">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="6º Razonamiento matemático"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="129">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="141">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -11340,18 +14098,20 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="130">
+               <instance class="exe.engine.field.TextAreaField" reference="142">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="151_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="129"></reference>
+                 <reference key="141"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
@@ -11957,7 +14717,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="130"></reference>
+                   <reference key="142"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -11965,7 +14725,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="143"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -11982,7 +14742,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="131"></reference>
+              <reference key="143"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -12014,7 +14774,7 @@
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="136">
+         <instance class="exe.engine.node.Node" reference="146">
           <dictionary>
            <string role="key" value="_title"></string>
            <string value=""></string>
@@ -12045,27 +14805,31 @@
    <unicode role="key" value="1"></unicode>
    <reference key="8"></reference>
    <unicode role="key" value="11"></unicode>
-   <reference key="119"></reference>
-   <unicode role="key" value="12"></unicode>
-   <reference key="132"></reference>
-   <unicode role="key" value="13"></unicode>
    <reference key="122"></reference>
-   <unicode role="key" value="14"></unicode>
-   <reference key="133"></reference>
-   <unicode role="key" value="15"></unicode>
+   <unicode role="key" value="12"></unicode>
    <reference key="125"></reference>
-   <unicode role="key" value="16"></unicode>
-   <reference key="134"></reference>
-   <unicode role="key" value="17"></unicode>
+   <unicode role="key" value="13"></unicode>
    <reference key="128"></reference>
+   <unicode role="key" value="14"></unicode>
+   <reference key="144"></reference>
+   <unicode role="key" value="15"></unicode>
+   <reference key="134"></reference>
+   <unicode role="key" value="16"></unicode>
+   <reference key="137"></reference>
+   <unicode role="key" value="17"></unicode>
+   <reference key="140"></reference>
    <unicode role="key" value="18"></unicode>
-   <reference key="135"></reference>
+   <reference key="145"></reference>
    <unicode role="key" value="19"></unicode>
-   <reference key="131"></reference>
+   <reference key="143"></reference>
    <unicode role="key" value="2"></unicode>
    <reference key="30"></reference>
    <unicode role="key" value="20"></unicode>
-   <reference key="136"></reference>
+   <reference key="146"></reference>
+   <unicode role="key" value="21"></unicode>
+   <reference key="131"></reference>
+   <unicode role="key" value="22"></unicode>
+   <reference key="119"></reference>
    <unicode role="key" value="3"></unicode>
    <reference key="12"></reference>
    <unicode role="key" value="4"></unicode>
@@ -12079,7 +14843,7 @@
    <unicode role="key" value="8"></unicode>
    <reference key="116"></reference>
    <unicode role="key" value="9"></unicode>
-   <reference key="137"></reference>
+   <reference key="147"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -12092,7 +14856,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="131"></reference>
+  <reference key="137"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
