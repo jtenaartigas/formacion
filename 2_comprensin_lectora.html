@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>1º Comprensión lectora | Formación en Centros - Ceip Joaquín Tena Artigas </title>
+<title>2º Comprensión lectora | Formación en Centros - Ceip Joaquín Tena Artigas </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="Ceip Joaquín Tena Artigas de Alcolea (Córdoba)" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
@@ -16,7 +16,7 @@
 <script type="text/javascript" src="common.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body class="exe-web-site" id="exe-node-25"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site" id="exe-node-26"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
 <header id="header" ><div id="headerContent">Formación en Centros - Ceip Joaquín Tena Artigas</div></header>
@@ -36,8 +36,8 @@
       <li><a href="infantil.html" class="no-ch">Infantil</a></li>
       <li><a href="1_razonamiento_matemtico.html" class="no-ch">1º Razonamiento matemático</a></li>
       <li><a href="1_el_huerto_mgico.html" class="no-ch">1º El Huerto Mágico</a></li>
-      <li id="active"><a href="1_comprensin_lectora.html" class="active daddy">1º Comprensión lectora</a>
-      <ul>
+      <li><a href="1_comprensin_lectora.html" class="daddy">1º Comprensión lectora</a>
+      <ul class="other-section">
          <li><a href="1_comprensin_lectora__nivel_bajo.html" class="no-ch">1º Comprensión lectora - Nivel Bajo</a></li>
          <li><a href="1_comprensin_lectora__nivel_medio.html" class="no-ch">1º Comprensión lectora - Nivel Medio</a></li>
          <li><a href="1_comprensin_lectora__nivel_alto.html" class="no-ch">1º Comprensión lectora - Nivel Alto</a></li>
@@ -48,8 +48,8 @@
       </li>
       <li><a href="2_razonamiento_matemtico.html" class="no-ch">2º Razonamiento matemático</a></li>
       <li><a href="2_viaje_a_marte.html" class="no-ch">2º Viaje a Marte</a></li>
-      <li><a href="2_comprensin_lectora.html" class="daddy">2º Comprensión lectora</a>
-      <ul class="other-section">
+      <li id="active"><a href="2_comprensin_lectora.html" class="active daddy">2º Comprensión lectora</a>
+      <ul>
          <li><a href="2_lecturas__bloque_1.html" class="no-ch">2º Lecturas - Bloque 1</a></li>
          <li><a href="2_lecturas__bloque_2.html" class="no-ch">2º Lecturas - Bloque 2</a></li>
          <li><a href="2_lecturas__bloque_3.html" class="no-ch">2º Lecturas - Bloque 3</a></li>
@@ -73,15 +73,15 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="1_el_huerto_mgico.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="1_comprensin_lectora__nivel_bajo.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="2_viaje_a_marte.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="2_lecturas__bloque_1.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
-<header id="nodeDecoration"><h1 id="nodeTitle">1º Comprensión lectora</h1></header>
-<article class="iDevice_wrapper textIdevice" id="id65">
+<header id="nodeDecoration"><h1 id="nodeTitle">2º Comprensión lectora</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id69">
 <div class="iDevice emphasis0" >
-<div id="ta65_144_2" class="block iDevice_content">
+<div id="ta69_148_2" class="block iDevice_content">
 <div class="exe-text"><p></p>
 <style>
     /* IMPORTACIÓN DE FUENTES */
@@ -97,14 +97,16 @@
     }
 
     :root {
-        --bg-color: #f0f3f5;
-        --card-bg: #ffffff;
+        --bg-color: #ecf0f1;
         --text-color: #2c3e50;
-        
-        /* Colores de Nivel */
-        --easy-color: #2ecc71;  /* Verde */
-        --med-color: #3498db;   /* Azul */
-        --hard-color: #9b59b6;  /* Púrpura */
+        /* Colores para 2º Primaria - Gama más "aventurera" */
+        --lvl-1: #1abc9c; /* Turquesa */
+        --lvl-2: #2ecc71; /* Verde */
+        --lvl-3: #3498db; /* Azul */
+        --lvl-4: #9b59b6; /* Morado */
+        --lvl-5: #e67e22; /* Naranja */
+        --lvl-6: #e74c3c; /* Rojo */
+        --lvl-7: #34495e; /* Azul oscuro */
     }
 
     * { box-sizing: border-box; user-select: none; }
@@ -116,7 +118,6 @@
             radial-gradient(#bdc3c7 2px, transparent 2px),
             radial-gradient(#bdc3c7 2px, transparent 2px);
         background-size: 30px 30px;
-        background-position: 0 0, 15px 15px;
         margin: 0;
         padding: 20px;
         color: var(--text-color);
@@ -128,12 +129,12 @@
 
     .main-container {
         width: 100%;
-        max-width: 1000px;
+        max-width: 1100px;
         background: rgba(255, 255, 255, 0.95);
         border-radius: 30px;
         box-shadow: 0 20px 40px rgba(0,0,0,0.1);
         padding: 40px;
-        border: 8px solid #fff;
+        border: 6px solid #fff;
         text-align: center;
     }
 
@@ -141,7 +142,7 @@
         font-size: 3.5rem;
         color: #e67e22;
         margin: 0 0 10px 0;
-        text-shadow: 3px 3px 0 #f1c40f;
+        text-shadow: 2px 2px 0 #f1c40f;
     }
 
     header p {
@@ -152,16 +153,16 @@
 
     .grid-levels {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-        gap: 30px;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 20px;
         padding: 10px;
     }
 
-    /* TARJETAS DE NIVEL (Ahora son DIVs para asegurar el bloque) */
+    /* TARJETAS DE NIVEL */
     .level-card {
         background: white;
         border-radius: 20px;
-        padding: 30px;
+        padding: 20px;
         color: var(--text-color);
         border: 4px solid transparent;
         transition: all 0.3s ease;
@@ -169,9 +170,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        position: relative;
-        overflow: hidden;
-        cursor: pointer; /* Manita al pasar por encima */
+        cursor: pointer;
     }
 
     .level-card:hover {
@@ -179,106 +178,85 @@
         box-shadow: 0 15px 30px rgba(0,0,0,0.15);
     }
 
-    /* ESTILOS ESPECÍFICOS POR NIVEL */
-    
-    /* NIVEL FÁCIL */
-    .card-easy {
-        border-color: var(--easy-color);
-    }
-    .card-easy .icon-bg { background-color: rgba(46, 204, 113, 0.1); }
-    .card-easy h2 { color: var(--easy-color); }
-    .card-easy:hover { background-color: rgba(46, 204, 113, 0.05); }
+    /* ESTILOS POR NIVEL */
+    .card-1 { border-color: var(--lvl-1); } .card-1 h2 { color: var(--lvl-1); } .card-1 .btn-go { background: var(--lvl-1); }
+    .card-2 { border-color: var(--lvl-2); } .card-2 h2 { color: var(--lvl-2); } .card-2 .btn-go { background: var(--lvl-2); }
+    .card-3 { border-color: var(--lvl-3); } .card-3 h2 { color: var(--lvl-3); } .card-3 .btn-go { background: var(--lvl-3); }
+    .card-4 { border-color: var(--lvl-4); } .card-4 h2 { color: var(--lvl-4); } .card-4 .btn-go { background: var(--lvl-4); }
+    .card-5 { border-color: var(--lvl-5); } .card-5 h2 { color: var(--lvl-5); } .card-5 .btn-go { background: var(--lvl-5); }
+    .card-6 { border-color: var(--lvl-6); } .card-6 h2 { color: var(--lvl-6); } .card-6 .btn-go { background: var(--lvl-6); }
+    .card-7 { border-color: var(--lvl-7); } .card-7 h2 { color: var(--lvl-7); } .card-7 .btn-go { background: var(--lvl-7); }
 
-    /* NIVEL MEDIO */
-    .card-medium {
-        border-color: var(--med-color);
-    }
-    .card-medium .icon-bg { background-color: rgba(52, 152, 219, 0.1); }
-    .card-medium h2 { color: var(--med-color); }
-    .card-medium:hover { background-color: rgba(52, 152, 219, 0.05); }
-
-    /* NIVEL ALTO */
-    .card-high {
-        border-color: var(--hard-color);
-    }
-    .card-high .icon-bg { background-color: rgba(155, 89, 182, 0.1); }
-    .card-high h2 { color: var(--hard-color); }
-    .card-high:hover { background-color: rgba(155, 89, 182, 0.05); }
-
-
-    /* ELEMENTOS INTERNOS DE LA TARJETA */
     .icon-bg {
-        width: 100px;
-        height: 100px;
-        border-radius: 50%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-size: 4rem;
-        margin-bottom: 20px;
-        transition: transform 0.3s;
+        font-size: 3rem;
+        margin-bottom: 10px;
     }
 
-    .level-card:hover .icon-bg {
-        transform: scale(1.1) rotate(5deg);
-    }
-
-    h2 {
-        font-size: 2.2rem;
-        margin: 10px 0;
-    }
-
-    .desc {
-        font-size: 1.4rem;
-        color: #95a5a6;
-        line-height: 1.4;
-    }
+    h2 { font-size: 1.8rem; margin: 10px 0; }
+    .desc { font-size: 1.2rem; color: #95a5a6; }
 
     .btn-go {
-        margin-top: 20px;
-        padding: 10px 30px;
+        margin-top: 15px;
+        padding: 8px 20px;
         border-radius: 50px;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         font-weight: bold;
         color: white;
-        background: #ccc;
-    }
-
-    .card-easy .btn-go { background: var(--easy-color); }
-    .card-medium .btn-go { background: var(--med-color); }
-    .card-high .btn-go { background: var(--hard-color); }
-
-    /* MEDIA QUERY PARA MÓVILES */
-    @media (max-width: 600px) {
-        h1 { font-size: 2.5rem; }
-        .grid-levels { grid-template-columns: 1fr; }
     }
 
 </style>
 <div class="main-container"><header>
-<h1>📚 MIS LECTURAS</h1>
-<p>¡Elige tu nivel y empieza a leer!</p>
+<h1>📖 LECTURAS 2º PRIMARIA</h1>
+<p>¡Hola explorador! ¿Por dónde vamos a leer hoy?</p>
 </header>
-<div class="grid-levels"><!-- NIVEL FÁCIL --> <!-- Usamos DIV con onclick para evitar que los estilos de enlaces rompan el bloque -->
-<div onclick="location.href='1_comprensin_lectora__nivel_bajo.html'" class="level-card card-easy">
-<div class="icon-bg">🐢</div>
-<h2>Nivel Fácil</h2>
-<p class="desc">Frases cortitas y letras grandes.<br />Para empezar.</p>
-<div class="btn-go">ENTRAR</div>
+<div class="grid-levels"><!-- BLOQUE 1 -->
+<div onclick="location.href='2_lecturas__bloque_1.html'" class="level-card card-1">
+<div class="icon-bg">🎒</div>
+<h2>Bloque 1</h2>
+<p class="desc">Lecturas 31-40</p>
+<div class="btn-go">LEER</div>
 </div>
-<!-- NIVEL MEDIO -->
-<div onclick="location.href='1_comprensin_lectora__nivel_medio.html'" class="level-card card-medium">
-<div class="icon-bg">🐇</div>
-<h2>Nivel Medio</h2>
-<p class="desc">Pequeñas historias.<br />Para leer un poco más.</p>
-<div class="btn-go">ENTRAR</div>
+<!-- BLOQUE 2 -->
+<div onclick="location.href='2_lecturas__bloque_2.html'" class="level-card card-2">
+<div class="icon-bg">🍂</div>
+<h2>Bloque 2</h2>
+<p class="desc">Lecturas 41-50</p>
+<div class="btn-go">LEER</div>
 </div>
-<!-- NIVEL ALTO -->
-<div onclick="location.href='1_comprensin_lectora__nivel_alto.html'" class="level-card card-high">
-<div class="icon-bg">🦉</div>
-<h2>Nivel Alto</h2>
-<p class="desc">Cuentos completos.<br />Para expertos lectores.</p>
-<div class="btn-go">ENTRAR</div>
+<!-- BLOQUE 3 -->
+<div onclick="location.href='2_lecturas__bloque_3.html'" class="level-card card-3">
+<div class="icon-bg">❄️</div>
+<h2>Bloque 3</h2>
+<p class="desc">Lecturas 51-60</p>
+<div class="btn-go">LEER</div>
+</div>
+<!-- BLOQUE 4 -->
+<div onclick="location.href='2_lecturas__bloque_4.html'" class="level-card card-4">
+<div class="icon-bg">🌸</div>
+<h2>Bloque 4</h2>
+<p class="desc">Lecturas 61-70</p>
+<div class="btn-go">LEER</div>
+</div>
+<!-- BLOQUE 5 -->
+<div onclick="location.href='2_lecturas__bloque_5.html'" class="level-card card-5">
+<div class="icon-bg">☀️</div>
+<h2>Bloque 5</h2>
+<p class="desc">Lecturas 71-80</p>
+<div class="btn-go">LEER</div>
+</div>
+<!-- BLOQUE 6 -->
+<div onclick="location.href='2_lecturas__bloque_6.html'" class="level-card card-6">
+<div class="icon-bg">🏖️</div>
+<h2>Bloque 6</h2>
+<p class="desc">Lecturas 81-90</p>
+<div class="btn-go">LEER</div>
+</div>
+<!-- BLOQUE 7 -->
+<div onclick="location.href='2_lecturas__bloque_7.html'" class="level-card card-7">
+<div class="icon-bg">🏆</div>
+<h2>Bloque 7</h2>
+<p class="desc">Lecturas 91-100</p>
+<div class="btn-go">LEER</div>
 </div>
 </div>
 </div></div>
@@ -292,7 +270,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="1_el_huerto_mgico.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="1_comprensin_lectora__nivel_bajo.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="2_viaje_a_marte.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="2_lecturas__bloque_1.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>

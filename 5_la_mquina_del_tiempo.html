@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>4º Aventura submarina | Formación en Centros - Ceip Joaquín Tena Artigas </title>
+<title>5º La Máquina del Tiempo | Formación en Centros - Ceip Joaquín Tena Artigas </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="Ceip Joaquín Tena Artigas de Alcolea (Córdoba)" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
@@ -16,7 +16,7 @@
 <script type="text/javascript" src="common.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body class="exe-web-site" id="exe-node-16"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site" id="exe-node-18"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
 <header id="header" ><div id="headerContent">Formación en Centros - Ceip Joaquín Tena Artigas</div></header>
@@ -62,9 +62,9 @@
       <li><a href="seccin.html" class="no-ch">Sección</a></li>
       <li><a href="3_olimpiadas_robticas.html" class="no-ch">3º Olimpiadas robóticas</a></li>
       <li><a href="4_razonamiento_matemtico.html" class="no-ch">4º Razonamiento matemático</a></li>
-      <li id="active"><a href="4_aventura_submarina.html" class="active no-ch">4º Aventura submarina</a></li>
+      <li><a href="4_aventura_submarina.html" class="no-ch">4º Aventura submarina</a></li>
       <li><a href="5_razonamiento_matemtico.html" class="no-ch">5º Razonamiento matemático</a></li>
-      <li><a href="5_la_mquina_del_tiempo.html" class="no-ch">5º La Máquina del Tiempo</a></li>
+      <li id="active"><a href="5_la_mquina_del_tiempo.html" class="active no-ch">5º La Máquina del Tiempo</a></li>
       <li><a href="6_razonamiento_matemtico.html" class="no-ch">6º Razonamiento matemático</a></li>
       <li><a href="6_proyecto_final.html" class="no-ch">6º Proyecto final</a></li>
    </ul>
@@ -73,15 +73,15 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="4_razonamiento_matemtico.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="5_razonamiento_matemtico.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="5_razonamiento_matemtico.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="6_razonamiento_matemtico.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
-<header id="nodeDecoration"><h1 id="nodeTitle">4º Aventura submarina</h1></header>
-<article class="iDevice_wrapper textIdevice" id="id57">
+<header id="nodeDecoration"><h1 id="nodeTitle">5º La Máquina del Tiempo</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id58">
 <div class="iDevice emphasis0" >
-<div id="ta57_158_2" class="block iDevice_content">
+<div id="ta58_141_2" class="block iDevice_content">
 <div class="exe-text"><p></p>
 <style>
     /* IMPORTACIÓN DE FUENTES - Estilo Escolar */
@@ -97,28 +97,26 @@
     }
 
     :root {
-        /* Paleta Submarina */
-        --bg-deep: #001e3c; /* Azul Profundo */
-        --primary: #00a8ff; /* Azul Océano */
-        --accent: #ff7979; /* Coral */
-        --sand: #f1c40f;   /* Arena/Oro */
-        --correct: #2ecc71; /* Verde Alga */
-        --wrong: #e74c3c;   /* Rojo Alerta */
-        --text: #ffffff;
-        --glass: rgba(255, 255, 255, 0.1);
+        /* Paleta Steampunk / Tiempo */
+        --bg-time: #2c3e50; 
+        --primary: #e67e22; /* Bronce */
+        --secondary: #2980b9; /* Azul eléctrico */
+        --accent: #f1c40f; /* Oro */
+        --correct: #27ae60; 
+        --wrong: #c0392b; 
+        --text: #ecf0f1;
+        --glass: rgba(44, 62, 80, 0.8);
     }
 
     * { box-sizing: border-box; user-select: none; }
 
     body {
         font-family: 'Escolar', 'Comic Sans MS', sans-serif;
-        background-color: var(--bg-deep);
-        /* Fondo de burbujas */
+        background-color: var(--bg-time);
+        /* Fondo de engranajes abstracto */
         background-image: 
-            radial-gradient(rgba(255,255,255,0.1) 8%, transparent 8%),
-            radial-gradient(rgba(255,255,255,0.1) 8%, transparent 8%);
-        background-size: 60px 60px;
-        background-position: 0 0, 30px 30px;
+            radial-gradient(circle at 50% 50%, rgba(255,255,255,0.05) 0%, transparent 60%),
+            repeating-conic-gradient(from 0deg, transparent 0deg 30deg, rgba(0,0,0,0.1) 30deg 60deg);
         margin: 0;
         padding: 20px;
         color: var(--text);
@@ -130,15 +128,15 @@
 
     .game-container {
         width: 100%;
-        max-width: 900px;
+        max-width: 950px;
         min-height: 85vh;
-        background: linear-gradient(180deg, #0984e3 0%, #001e3c 100%);
-        border-radius: 30px;
-        border: 4px solid #74b9ff;
+        background: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
+        border-radius: 20px;
+        border: 4px solid var(--primary);
         display: flex;
         flex-direction: column;
         position: relative;
-        box-shadow: 0 0 40px rgba(0, 168, 255, 0.4);
+        box-shadow: 0 0 50px rgba(230, 126, 34, 0.3);
         margin-bottom: 50px;
         overflow: hidden;
     }
@@ -162,47 +160,46 @@
 
     /* INICIO */
     h1 {
-        font-size: 3.8rem;
-        color: var(--sand);
-        text-shadow: 0 2px 0 #d35400;
+        font-size: 3.5rem;
+        color: var(--accent);
+        text-shadow: 2px 2px 0 #d35400;
         margin-bottom: 20px;
         line-height: 1.1;
+        font-family: 'Escolar', serif;
+        border-bottom: 3px solid var(--primary);
+        padding-bottom: 10px;
     }
 
     .intro-text {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
         margin-bottom: 40px;
-        color: #dff9fb;
+        color: #bdc3c7;
         line-height: 1.5;
         background: rgba(0,0,0,0.3);
-        padding: 20px;
-        border-radius: 20px;
+        padding: 25px;
+        border-radius: 15px;
+        max-width: 700px;
     }
 
     .btn-start {
-        background: linear-gradient(to bottom, #00cec9, #00b894);
+        background: linear-gradient(to bottom, #f39c12, #d35400);
         color: white;
-        border: 2px solid #55efc4;
-        padding: 25px 60px;
-        font-size: 2.2rem;
-        border-radius: 50px;
+        border: 2px solid #e67e22;
+        padding: 20px 50px;
+        font-size: 2rem;
+        border-radius: 10px;
         font-family: 'Escolar', sans-serif;
         font-weight: bold;
         cursor: pointer;
-        box-shadow: 0 8px 0 #006266;
+        box-shadow: 0 6px 0 #a04000;
         transition: transform 0.1s;
-        animation: float 3s infinite ease-in-out;
+        text-transform: uppercase;
+        letter-spacing: 2px;
     }
 
     .btn-start:active {
-        transform: translateY(6px);
-        box-shadow: 0 4px 0 #006266;
-    }
-
-    @keyframes float {
-        0% { transform: translateY(0px); }
-        50% { transform: translateY(-10px); }
-        100% { transform: translateY(0px); }
+        transform: translateY(4px);
+        box-shadow: 0 2px 0 #a04000;
     }
 
     /* JUEGO */
@@ -211,41 +208,60 @@
         display: flex;
         justify-content: space-between;
         padding: 15px 30px;
-        font-size: 1.8rem;
-        background: rgba(0,0,0,0.3);
-        border-bottom: 2px solid #74b9ff;
+        font-size: 1.6rem;
+        background: rgba(0,0,0,0.4);
+        border-bottom: 2px solid var(--primary);
     }
 
-    .score-box { color: var(--sand); font-weight: bold; }
+    .score-box { color: var(--accent); font-weight: bold; }
 
     /* Barra de tiempo */
     .timer-bar-bg {
         width: 100%;
-        height: 15px;
-        background: rgba(255,255,255,0.2);
+        height: 12px;
+        background: rgba(255,255,255,0.1);
     }
 
     .timer-bar-fill {
         height: 100%;
-        background: var(--sand);
+        background: var(--correct);
         width: 100%;
         transition: width 1s linear;
-        border-radius: 0 10px 10px 0;
+    }
+
+    .question-container {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        padding: 20px;
+    }
+
+    .level-badge {
+        background: var(--secondary);
+        color: white;
+        padding: 5px 15px;
+        border-radius: 20px;
+        font-size: 1rem;
+        margin-bottom: 10px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
     }
 
     .question-box {
-        background: var(--glass);
-        border: 2px solid rgba(255,255,255,0.3);
-        backdrop-filter: blur(5px);
-        color: white;
+        background: #ecf0f1;
+        border-left: 6px solid var(--secondary);
+        color: #2c3e50;
         padding: 25px;
-        border-radius: 20px;
-        margin: 20px;
+        border-radius: 5px;
+        margin-bottom: 30px;
         text-align: center;
-        font-size: 2rem;
-        width: 90%;
+        font-size: 1.8rem;
+        width: 95%;
         line-height: 1.4;
-        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
     }
 
     .grid-options {
@@ -253,20 +269,20 @@
         grid-template-columns: 1fr 1fr;
         gap: 20px;
         width: 95%;
-        margin-bottom: 30px;
+        margin-bottom: 20px;
     }
 
     @media (max-width: 700px) {
         .grid-options { grid-template-columns: 1fr; }
-        h1 { font-size: 3rem; }
-        .question-box { font-size: 1.6rem; }
+        h1 { font-size: 2.5rem; }
+        .question-box { font-size: 1.5rem; }
     }
 
     .option-btn {
         padding: 20px;
-        font-size: 1.6rem;
+        font-size: 1.5rem;
         border: none;
-        border-radius: 15px;
+        border-radius: 8px;
         cursor: pointer;
         font-family: 'Escolar', sans-serif;
         font-weight: bold;
@@ -277,37 +293,40 @@
         justify-content: flex-start;
         text-align: left;
         position: relative;
-        box-shadow: 0 6px 0 rgba(0,0,0,0.3);
-        min-height: 90px;
-        background-color: #2c3e50; /* Fallback */
+        box-shadow: 0 5px 0 rgba(0,0,0,0.3);
+        min-height: 80px;
+        background-color: #34495e; 
+        border: 1px solid rgba(255,255,255,0.1);
     }
 
+    .option-btn:hover { background-color: #4b6584; }
     .option-btn:active { transform: translateY(4px); box-shadow: none; }
 
-    /* Colores botones temáticos */
-    .opt-0 { background-color: #e84393; } /* Rosa Coral */
-    .opt-1 { background-color: #0984e3; } /* Azul Mar */
-    .opt-2 { background-color: #f39c12; } /* Naranja Pez */
-    .opt-3 { background-color: #00b894; } /* Verde Alga */
+    /* Colores botones */
+    .opt-0 { border-left: 5px solid #e74c3c; } 
+    .opt-1 { border-left: 5px solid #3498db; } 
+    .opt-2 { border-left: 5px solid #f1c40f; } 
+    .opt-3 { border-left: 5px solid #2ecc71; } 
 
-    .option-icon {
-        font-size: 2.2rem;
+    .option-letter {
+        font-size: 1.5rem;
         margin-right: 15px;
-        background: rgba(0,0,0,0.2);
-        width: 50px;
-        height: 50px;
+        background: rgba(0,0,0,0.3);
+        width: 40px;
+        height: 40px;
         border-radius: 50%;
         display: flex;
         justify-content: center;
         align-items: center;
         flex-shrink: 0;
+        font-weight: bold;
     }
 
     /* FEEDBACK FLOTANTE NEUTRO */
     .feedback-overlay {
         position: fixed;
         top: 0; left: 0; width: 100%; height: 100%;
-        background: rgba(0, 30, 60, 0.95);
+        background: rgba(44, 62, 80, 0.98);
         z-index: 100;
         display: none;
         flex-direction: column;
@@ -318,225 +337,185 @@
         color: white;
     }
 
-    .feedback-emoji { font-size: 6rem; margin-bottom: 20px; }
-    .feedback-title { font-size: 3.5rem; margin-bottom: 20px; font-weight: bold; color: var(--sand); }
-    .feedback-msg { font-size: 2rem; line-height: 1.5; max-width: 800px; background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; }
+    .feedback-title { font-size: 3rem; margin-bottom: 20px; font-weight: bold; color: var(--accent); border-bottom: 2px solid white; padding-bottom: 10px;}
+    .feedback-msg { font-size: 1.8rem; line-height: 1.5; max-width: 800px; background: rgba(255,255,255,0.1); padding: 30px; border-radius: 10px; }
 
     /* FINAL */
     .final-stats {
-        background: var(--glass);
-        border: 2px solid var(--sand);
+        background: rgba(0,0,0,0.2);
+        border: 2px solid var(--accent);
         padding: 40px;
-        border-radius: 30px;
+        border-radius: 15px;
         text-align: center;
         margin-bottom: 30px;
-        width: 90%;
+        width: 80%;
     }
 
 </style>
 <div class="game-container"><!-- PANTALLA 1: INICIO -->
 <div id="screen-start" class="screen active">
-<h1>🐙 AVENTURA SUBMARINA ⚓</h1>
-<p class="intro-text">¡Buzo! Prepárate para sumergirte.<br />Resolveremos retos de <strong>4º de Primaria</strong>.<br /><br /><strong>15 Niveles de Profundidad</strong><br />⏳ 3 minutos por nivel.</p>
-<button class="btn-start" onclick="startGame()">¡AL AGUA!</button></div>
+<h1>🕰️ LA MÁQUINA DEL TIEMPO</h1>
+<p class="intro-text">Agente Temporal, la historia está desordenada.<br />Usa tus matemáticas de <strong>5º de Primaria</strong> para arreglarla.<br /><br /><strong>20 Desafíos Históricos</strong><br />⏳ 3 minutos para resolver cada paradoja.</p>
+<button class="btn-start" onclick="startGame()">INICIAR VIAJE</button></div>
 <!-- PANTALLA 2: JUEGO -->
 <div id="screen-game" class="screen">
 <div class="top-bar">
-<div>Nivel <span id="q-num">1</span> de 15</div>
-<div class="score-box">💰 <span id="score-val">0</span></div>
+<div>Fase <span id="q-num">1</span> de 20</div>
+<div class="score-box">Energía: <span id="score-val">0</span></div>
 </div>
 <div class="timer-bar-bg">
 <div id="timer-bar" class="timer-bar-fill"></div>
 </div>
+<div class="question-container">
+<div id="level-badge" class="level-badge">Nivel Fácil</div>
 <div class="question-box" id="question-text"><!-- Texto pregunta --></div>
 <div class="grid-options" id="options-area"><!-- Botones se generan aquí --></div>
 </div>
+</div>
 <!-- PANTALLA 3: FINAL -->
 <div id="screen-end" class="screen">
-<h1>🔱 ¡TESORO ENCONTRADO! 🔱</h1>
+<h1>🚀 ¡LÍNEA TEMPORAL SALVADA!</h1>
 <div class="final-stats">
-<p style="font-size: 2rem;">Tu botín:</p>
-<div style="font-size: 6rem; color: var(--sand); font-weight: bold; margin: 10px 0;" id="final-score">0</div>
-<p style="font-size: 2.2rem;">Monedas de Oro</p>
+<p style="font-size: 2rem;">Puntuación Total:</p>
+<div style="font-size: 5rem; color: var(--accent); font-weight: bold; margin: 15px 0;" id="final-score">0</div>
+<p style="font-size: 1.8rem;">¡Eres un Guardián del Tiempo!</p>
 </div>
-<button class="btn-start" onclick="location.reload()">Nueva Inmersión</button></div>
+<button class="btn-start" onclick="location.reload()">Nuevo Viaje</button></div>
 <!-- FEEDBACK OVERLAY -->
 <div id="feedback-overlay" class="feedback-overlay">
-<div class="feedback-emoji" id="fb-emoji">🐢</div>
-<div class="feedback-title" id="fb-title">DIARIO DE BITÁCORA</div>
+<div class="feedback-title" id="fb-title">DATOS DE MISIÓN</div>
 <div class="feedback-msg" id="fb-msg">Mensaje...</div>
 </div>
 </div>
 <p>
 <script>
-    // --- DATOS DEL JUEGO (4º PRIMARIA: Aventura Submarina) ---
-    // Nivel 4º: Fracciones, Decimales, Ángulos, Unidades de medida, Operaciones combinadas.
+    // --- DATOS DEL JUEGO (5º PRIMARIA - 20 PREGUNTAS) ---
     
     const questions = [
+        // NIVEL FÁCIL (1-7)
         {
-            q: "⚓ Profundidad: El submarino baja a 450 metros. Luego baja 235 metros más. ¿A qué profundidad está ahora?",
-            opts: [
-                "685 metros",
-                "215 metros",
-                "600 metros",
-                "695 metros"
-            ],
-            correct: 0, 
-            feedback: "Si baja más, sumamos las profundidades: 450 + 235 = 685 metros."
-        },
-        {
-            q: "🐟 Bancos de Peces: Hay 12 bancos de peces. En cada banco hay 25 peces. ¿Cuántos peces hay en total?",
-            opts: [
-                "37 peces",
-                "300 peces",
-                "250 peces",
-                "150 peces"
-            ],
-            correct: 1,
-            feedback: "Es una multiplicación: 12 veces 25. 10 x 25 = 250, y 2 x 25 = 50. Total 300 peces."
-        },
-        {
-            q: "➗ Oxígeno: Tenemos 120 botellas de oxígeno para repartir entre 4 buzos. ¿Cuántas tocan a cada uno?",
-            opts: [
-                "40 botellas",
-                "35 botellas",
-                "30 botellas",
-                "25 botellas"
-            ],
-            correct: 2,
-            feedback: "Dividimos 120 entre 4. Como 12 entre 4 es 3, entonces 120 entre 4 es 30."
-        },
-        {
-            q: "🍰 Fracciones: Un pulpo se ha comido 3/4 de las 20 cangreburguers. ¿Cuántas se ha comido?",
-            opts: [
-                "5 cangreburguers",
-                "10 cangreburguers",
-                "15 cangreburguers",
-                "12 cangreburguers"
-            ],
-            correct: 2,
-            feedback: "Calculamos 1/4 de 20 (20:4 = 5). Como son 3/4, multiplicamos 5 x 3 = 15."
-        },
-        {
-            q: "💶 Tienda del Puerto: Las aletas cuestan 12,50 € y las gafas 5,25 €. ¿Cuánto cuesta todo?",
-            opts: [
-                "17,75 €",
-                "17,25 €",
-                "18,00 €",
-                "16,75 €"
-            ],
+            q: "🏛️ Roma: El Coliseo tiene capacidad para 50.000 personas. Si ya han entrado 12.450, ¿cuántas faltan por entrar?",
+            opts: ["37.550", "38.550", "42.450", "37.650"],
             correct: 0,
-            feedback: "Sumamos alineando la coma: 12,50 + 5,25. \n 50 + 25 = 75 céntimos. \n 12 + 5 = 17 euros. \n Total 17,75 €."
+            feedback: "Restamos lo que hay al total: 50.000 - 12.450 = 37.550 personas."
         },
         {
-            q: "📏 Distancia: El arrecife está a 3 Kilómetros y medio. ¿Cuántos METROS son?",
-            opts: [
-                "3050 metros",
-                "3500 metros",
-                "3005 metros",
-                "350 metros"
-            ],
-            correct: 1,
-            feedback: "1 km son 1000 m. 3 km son 3000 m. Medio km son 500 m. Total 3500 m."
-        },
-        {
-            q: "📐 Ángulos: El capitán gira el timón formando una esquina cuadrada (90º). ¿Qué tipo de ángulo es?",
-            opts: [
-                "Agudo",
-                "Obtuso",
-                "Llano",
-                "Recto"
-            ],
-            correct: 3,
-            feedback: "Un ángulo de 90 grados exactos se llama Ángulo Recto."
-        },
-        {
-            q: "💧 Capacidad: Un tanque tiene 500 cl de agua. ¿Cuántos LITROS son?",
-            opts: [
-                "5 Litros",
-                "50 Litros",
-                "0,5 Litros",
-                "5000 Litros"
-            ],
+            q: "🥖 Edad Media: Un panadero vende 30 hogazas a 0,45 € cada una. ¿Cuánto dinero gana?",
+            opts: ["13,50 €", "12,50 €", "135 €", "1,35 €"],
             correct: 0,
-            feedback: "Para pasar de centilitros (cl) a Litros (l) dividimos entre 100. 500 : 100 = 5 Litros."
+            feedback: "Multiplicamos decimales: 30 x 0,45 = 13,50 €."
         },
         {
-            q: "🔢 Decimales: ¿Qué número es MAYOR?",
-            opts: [
-                "4,09",
-                "4,9",
-                "4,89",
-                "4,19"
-            ],
-            correct: 1,
-            feedback: "Comparamos las décimas (el primer número tras la coma). 9 es mayor que 0, 8 o 1. Por tanto 4,9 es el mayor."
-        },
-        {
-            q: "🕰️ Tiempo de Inmersión: Entramos al agua a las 10:15 y salimos a las 11:00. ¿Cuánto tiempo hemos buceado?",
-            opts: [
-                "30 minutos",
-                "45 minutos",
-                "1 hora",
-                "15 minutos"
-            ],
-            correct: 1,
-            feedback: "De 10:15 a 11:00 faltan tres cuartos de hora, es decir, 45 minutos."
-        },
-        {
-            q: "⚖️ Peso: Hemos encontrado un cofre que pesa 2 kg y 500 g. ¿Cuántos GRAMOS son en total?",
-            opts: [
-                "2050 g",
-                "2500 g",
-                "250 g",
-                "2005 g"
-            ],
-            correct: 1,
-            feedback: "2 kg son 2000 g. Si sumamos 500 g más, tenemos 2500 gramos."
-        },
-        {
-            q: "🧱 Perímetro: La base submarina es rectangular: 10 m de largo y 5 m de ancho. ¿Cuánto mide su perímetro?",
-            opts: [
-                "15 metros",
-                "50 metros",
-                "30 metros",
-                "25 metros"
-            ],
+            q: "🧱 Egipto: Una pirámide tiene una base cuadrada de 20 m de lado. ¿Cuál es su perímetro?",
+            opts: ["40 m", "60 m", "80 m", "100 m"],
             correct: 2,
-            feedback: "El perímetro es la suma de TODOS los lados: 10 + 5 + 10 + 5 = 30 metros."
+            feedback: "El cuadrado tiene 4 lados iguales. Perímetro = 20 x 4 = 80 m."
         },
         {
-            q: "🍕 Comparar Fracciones: ¿Qué preferirías si tienes mucha hambre? ¿1/2 de pizza o 1/4 de pizza?",
-            opts: [
-                "1/2 (La mitad)",
-                "1/4 (Un cuarto)",
-                "Son iguales",
-                "Ninguna"
-            ],
+            q: "🧪 Laboratorio: Tenemos una probeta con 0,5 litros y otra con 25 cl. ¿Cuántos centilitros hay en total?",
+            opts: ["30 cl", "75 cl", "525 cl", "0,75 cl"],
+            correct: 1,
+            feedback: "0,5 litros son 50 cl. Sumamos 50 cl + 25 cl = 75 cl."
+        },
+        {
+            q: "🍕 Renacimiento: Leonardo come 2/8 de pizza y Miguel Ángel come 3/8. ¿Qué fracción se han comido?",
+            opts: ["5/16", "6/8", "5/8", "1/8"],
+            correct: 2,
+            feedback: "Suma de fracciones con igual denominador: 2+3 = 5. Resultado: 5/8."
+        },
+        {
+            q: "💰 Futuro: Un robot cuesta 1.200 €. Si pagas la mitad ahora y el resto después, ¿cuánto pagas ahora?",
+            opts: ["500 €", "600 €", "700 €", "1.000 €"],
+            correct: 1,
+            feedback: "La mitad de 1.200 es dividir entre 2: 1.200 : 2 = 600 €."
+        },
+        {
+            q: "⏰ Revolución Industrial: Un tren sale a las 8:15 y llega a las 10:30. ¿Cuánto dura el viaje?",
+            opts: ["2 h 15 min", "1 h 15 min", "2 h 30 min", "2 h 45 min"],
             correct: 0,
-            feedback: "1/2 es la mitad. 1/4 es la mitad de la mitad. Por tanto, 1/2 es más grande."
+            feedback: "De 8:15 a 10:15 van 2 horas. Hasta las 10:30 faltan 15 min más. Total: 2h 15min."
         },
+
+        // NIVEL MEDIO (8-14)
         {
-            q: "🔢 Series: El sonar detecta una señal: 150, 300, 450, ... ¿Qué viene ahora?",
-            opts: [
-                "500",
-                "550",
-                "600",
-                "650"
-            ],
+            q: "⚖️ Mercado: Una sandía pesa 3,5 kg. ¿Cuántos gramos son?",
+            opts: ["350 g", "3050 g", "3500 g", "35 g"],
             correct: 2,
-            feedback: "La serie va sumando 150 cada vez. 450 + 150 = 600."
+            feedback: "1 kg son 1000 g. Multiplicamos 3,5 x 1000 = 3.500 gramos."
         },
         {
-            q: "🤔 Lógica: En el barco hay 3 buzos. Cada uno lleva 2 aletas y 1 bombona. ¿Cuántos objetos llevan en total?",
-            opts: [
-                "6 objetos",
-                "9 objetos",
-                "12 objetos",
-                "3 objetos"
-            ],
+            q: "📉 Oferta: Un libro vale 20 €. Si tiene un descuento del 10%, ¿cuánto me descuentan?",
+            opts: ["10 €", "5 €", "2 €", "1 €"],
+            correct: 2,
+            feedback: "El 10% de 20 es dividir 20 entre 10. El descuento es 2 €."
+        },
+        {
+            q: "📐 Geometría: ¿Cuánto miden los 3 ángulos de un triángulo si los sumamos?",
+            opts: ["90 grados", "180 grados", "360 grados", "100 grados"],
             correct: 1,
-            feedback: "Cada buzo lleva 3 cosas (2 aletas + 1 bombona). Si hay 3 buzos: 3 x 3 = 9 objetos."
+            feedback: "La suma de los ángulos interiores de cualquier triángulo siempre es 180º."
+        },
+        {
+            q: "🔢 Series: 0,5 - 1,0 - 1,5 - 2,0... ¿Qué número sigue?",
+            opts: ["2,1", "3,0", "2,5", "2,05"],
+            correct: 2,
+            feedback: "La serie suma 0,5 cada vez. 2,0 + 0,5 = 2,5."
+        },
+        {
+            q: "🍰 Fracción de número: En clase hay 24 alumnos. 1/3 llevan gafas. ¿Cuántos llevan gafas?",
+            opts: ["8 alumnos", "6 alumnos", "12 alumnos", "4 alumnos"],
+            correct: 0,
+            feedback: "Calculamos 1/3 de 24. Dividimos 24 entre 3 = 8."
+        },
+        {
+            q: "🚜 Campo: Un terreno rectangular mide 200 m de largo y 50 m de ancho. ¿Cuál es su ÁREA?",
+            opts: ["250 m²", "1.000 m²", "10.000 m²", "500 m²"],
+            correct: 2,
+            feedback: "Área del rectángulo = base x altura. 200 x 50 = 10.000 m²."
+        },
+        {
+            q: "🧮 Operaciones: Calcula: (20 + 5) x 4 - 10",
+            opts: ["110", "90", "50", "60"],
+            correct: 1,
+            feedback: "Paréntesis primero: 25. Multiplicación: 25x4=100. Resta: 100-10=90."
+        },
+
+        // NIVEL DIFÍCIL (15-20)
+        {
+            q: "💶 Dinero: Tengo 50 €. Compro 3 libros a 12,50 € cada uno. ¿Cuánto me sobra?",
+            opts: ["12,50 €", "37,50 €", "15 €", "22,50 €"],
+            correct: 0,
+            feedback: "Gasto: 12,50 x 3 = 37,50 €. Sobra: 50 - 37,50 = 12,50 €."
+        },
+        {
+            q: "🏃 Distancia: He recorrido 2 km y 5 dam. ¿Cuántos metros son en total?",
+            opts: ["2050 m", "2500 m", "2005 m", "250 m"],
+            correct: 0,
+            feedback: "2 km = 2000 m. 5 dam = 50 m. Total = 2050 m."
+        },
+        {
+            q: "🥧 Fracciones: ¿Qué es mayor? ¿3/5 o 4/10?",
+            opts: ["3/5", "4/10", "Son iguales", "No se puede saber"],
+            correct: 0,
+            feedback: "Simplificamos o pasamos a decimal. 3/5 = 0,6. 4/10 = 0,4. Gana 3/5."
+        },
+        {
+            q: "🕓 Tiempo Complejo: Una película dura 135 minutos. ¿Cuántas horas y minutos son?",
+            opts: ["1h 35min", "2h 15min", "2h 35min", "1h 15min"],
+            correct: 1,
+            feedback: "1 hora = 60 min. 2 horas = 120 min. Sobran 15 min. Son 2h 15min."
+        },
+        {
+            q: "🧑‍🤝‍🧑 Lógica: En una fila, Ana está la 4ª empezando por el principio y la 6ª empezando por el final. ¿Cuántos hay?",
+            opts: ["10", "9", "11", "8"],
+            correct: 1,
+            feedback: "Delante tiene 3 personas. Detrás tiene 5 personas. 3 + 5 + Ana = 9 personas."
+        },
+        {
+            q: "🔢 Decimales: 12,45 + 3,6 + 0,05 = ?",
+            opts: ["15,10", "16,1", "16,05", "15,6"],
+            correct: 1,
+            feedback: "Alineamos las comas: 12,45 + 3,60 + 0,05 = 16,10."
         }
     ];
 
@@ -545,7 +524,7 @@
     let score = 0;
     let timeLeft = 0;
     let timerInterval;
-    const TIME_PER_QUESTION = 180; // 3 MINUTOS
+    const TIME_PER_QUESTION = 180; // 3 MINUTOS (180 seg)
     const POINTS_PER_QUESTION = 100; 
 
     // --- ELEMENTOS DOM ---
@@ -563,9 +542,9 @@
         optsArea: document.getElementById('options-area'),
         fbOverlay: document.getElementById('feedback-overlay'),
         fbTitle: document.getElementById('fb-title'),
-        fbEmoji: document.getElementById('fb-emoji'),
         fbMsg: document.getElementById('fb-msg'),
-        finalScore: document.getElementById('final-score')
+        finalScore: document.getElementById('final-score'),
+        lvlBadge: document.getElementById('level-badge')
     };
 
     // --- FUNCIONES ---
@@ -600,17 +579,28 @@
         ui.qText.innerText = q.q;
         ui.optsArea.innerHTML = '';
         
+        // Badge Nivel
+        if(currentQIndex < 7) {
+            ui.lvlBadge.innerText = "Nivel: Fácil";
+            ui.lvlBadge.style.backgroundColor = "#27ae60";
+        } else if(currentQIndex < 14) {
+            ui.lvlBadge.innerText = "Nivel: Medio";
+            ui.lvlBadge.style.backgroundColor = "#2980b9";
+        } else {
+            ui.lvlBadge.innerText = "Nivel: Difícil";
+            ui.lvlBadge.style.backgroundColor = "#c0392b";
+        }
+
         // Reset Timer
         timeLeft = TIME_PER_QUESTION;
         ui.timerBar.style.width = '100%';
-        ui.timerBar.style.backgroundColor = '#f1c40f'; // Color arena
+        ui.timerBar.style.backgroundColor = '#27ae60'; 
         
         q.opts.forEach((optText, index) => {
             const btn = document.createElement('button');
             btn.className = `option-btn opt-${index}`;
-            // Iconos
-            const icons = ['🦀', '🐠', '⚓', '🐚']; 
-            btn.innerHTML = `<span class="option-icon">${icons[index]}</span> ${optText}`;
+            const letters = ['A', 'B', 'C', 'D'];
+            btn.innerHTML = `<span class="option-letter">${letters[index]}</span> ${optText}`;
             btn.onclick = () => checkAnswer(index);
             ui.optsArea.appendChild(btn);
         });
@@ -625,11 +615,11 @@
             const percentage = (timeLeft / TIME_PER_QUESTION) * 100;
             ui.timerBar.style.width = `${percentage}%`;
 
-            if (percentage < 20) ui.timerBar.style.backgroundColor = '#e74c3c'; // Rojo alerta
+            if (percentage < 20) ui.timerBar.style.backgroundColor = '#c0392b';
 
             if (timeLeft <= 0) {
                 clearInterval(timerInterval);
-                showFeedback(false, "¡Se acabó el oxígeno! (Tiempo agotado) ⏳");
+                showFeedback(false, "¡Paradoja temporal! (Tiempo agotado) ⏳");
             }
         }, 1000);
     }
@@ -641,7 +631,7 @@
 
         if (isCorrect) {
             score += POINTS_PER_QUESTION;
-            if(timeLeft > 100) score += 50; // Bonus velocidad
+            if(timeLeft > 100) score += 50; 
             showFeedback(true, q.feedback);
         } else {
             showFeedback(false, q.feedback);
@@ -652,19 +642,16 @@
         ui.fbOverlay.style.display = 'flex';
         
         if (isCorrect) {
-            ui.fbTitle.innerText = "¡CORRECTO!";
+            ui.fbTitle.innerText = "¡DATO CORRECTO!";
             ui.fbTitle.style.color = "var(--correct)";
-            ui.fbEmoji.innerText = "💎";
         } else {
-            ui.fbTitle.innerText = "REVISEMOS"; 
-            ui.fbTitle.style.color = "var(--sand)";
-            ui.fbEmoji.innerText = "🦐";
+            ui.fbTitle.innerText = "ANÁLISIS"; 
+            ui.fbTitle.style.color = "var(--primary)";
         }
         
         ui.fbMsg.innerText = msg;
         updateStats();
 
-        // 6 segundos para leer
         setTimeout(() => {
             ui.fbOverlay.style.display = 'none';
             currentQIndex++;
@@ -693,7 +680,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="4_razonamiento_matemtico.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="5_razonamiento_matemtico.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="5_razonamiento_matemtico.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="6_razonamiento_matemtico.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>
